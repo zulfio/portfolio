@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "67062e3197a7d16053d785f1"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "Logo-Pesantren-Al-Hilal.png",
+  "path": "2024/10/Logo-Pesantren-Al-Hilal.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-09T07:18:09.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:18:09.813Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6706354b4633a271c4bc4b48"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "design-medium.jpg",
+  "path": "2024/10/design-medium.jpg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-09T07:48:27.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:48:27.817Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670635524633a271c4bc4b51"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "Invoice _ Tokopedia.pdf",
+  "path": "2024/10/Invoice _ Tokopedia.pdf",
+  "type": "application/pdf",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-09T07:48:34.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:48:34.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670641be60f88002fff5d853"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "whatsappimage2024-08-09at121546_1723185930.jpeg",
+  "path": "2024/10/whatsappimage2024-08-09at121546_1723185930.jpeg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-09T08:41:34.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T08:41:34.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670641cc60f88002fff5d85c"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "whatsappimage2024-08-09at121546_1723185930(1).jpeg",
+  "path": "2024/10/whatsappimage2024-08-09at121546_1723185930(1).jpeg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-09T08:41:48.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T08:41:48.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6707834f60f88002fff5d9e7"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "whatsappimage2024-08-09at115415_1723179768.jpeg",
+  "path": "2024/10/whatsappimage2024-08-09at115415_1723179768.jpeg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-10T07:33:35.142Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T07:33:35.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6707835460f88002fff5d9f0"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "whatsappimage2024-08-09at115415_1723179768(1).jpeg",
+  "path": "2024/10/whatsappimage2024-08-09at115415_1723179768(1).jpeg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-10T07:33:40.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T07:33:40.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670e14eb37c81dcc5d5d5910"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "Logo_Yayasan png.png",
+  "path": "2024/10/Logo_Yayasan png.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-15T07:08:27.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T07:08:27.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670f465a37c81dcc5d5d5ef1"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "whatsappimage2024-08-08at085439-min_1723083334.jpeg",
+  "path": "2024/10/whatsappimage2024-08-08at085439-min_1723083334.jpeg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-16T04:51:38.576Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T04:51:38.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670f465f37c81dcc5d5d5efa"
+  },
+  "author": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "fileName": "whatsappimage2024-08-08at085439-min_1723083334(1).jpeg",
+  "path": "2024/10/whatsappimage2024-08-08at085439-min_1723083334(1).jpeg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-16T04:51:43.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T04:51:43.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67345656918b47628e0996a4"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Ann.png",
+  "path": "2024/11/TTD_Ann.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:33:42.311Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:33:42.311Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67345696918b47628e0996e2"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Kang Fajar.png",
+  "path": "2024/11/TTD_Kang Fajar.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:34:46.346Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:34:46.346Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6734569efa94ebbbc8079fb7"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Kang Rojak.png",
+  "path": "2024/11/TTD_Kang Rojak.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:34:54.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:34:54.620Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673456a8fa94ebbbc8079fc0"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Pak Andri.png",
+  "path": "2024/11/TTD_Pak Andri.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:35:04.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:35:04.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673456abfa94ebbbc8079fc9"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Pak Iwan.png",
+  "path": "2024/11/TTD_Pak Iwan.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:35:07.732Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:35:07.732Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673456affa94ebbbc8079fd2"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Selin.png",
+  "path": "2024/11/TTD_Selin.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:35:11.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:35:11.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673456b2fa94ebbbc8079fdb"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Teh Eci.jpg",
+  "path": "2024/11/TTD_Teh Eci.jpg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:35:14.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:35:14.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6734574afa94ebbbc807a143"
+  },
+  "author": {
+    "$oid": "66cbed2edeb79b6efbc4c841"
+  },
+  "fileName": "Logo-Aqiqah-Madenah-300x174.png",
+  "path": "2024/11/Logo-Aqiqah-Madenah-300x174.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:37:46.408Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:37:46.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67345791fa94ebbbc807a1c9"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Pak Asep.jpg",
+  "path": "2024/11/TTD_Pak Asep.jpg",
+  "type": "image/jpeg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:38:57.544Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:38:57.544Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673457cbfa94ebbbc807a1d7"
+  },
+  "author": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "fileName": "TTD_Pak_Asep.png",
+  "path": "2024/11/TTD_Pak_Asep.png",
+  "type": "image/png",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-13T07:39:55.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T07:39:55.661Z"
+  }
+}]

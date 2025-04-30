@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "65e542bb50ba32e99990a29b"
+  },
+  "name": "Super Admin",
+  "description": "",
+  "permissions": [
+    "*"
+  ],
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T02:49:18.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e542bb50ba32e99990a29c"
+  },
+  "name": "Admin",
+  "description": "",
+  "permissions": [
+    "media_*",
+    "campaign_*",
+    "employee_*",
+    "option_*"
+  ],
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T03:34:39.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e542bb50ba32e99990a29d"
+  },
+  "name": "Editor",
+  "description": "",
+  "permissions": [
+    "campaign_create",
+    "campaign_delete",
+    "campaign_update"
+  ],
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T02:49:18.700Z"
+  },
+  "__v": 0
+}]

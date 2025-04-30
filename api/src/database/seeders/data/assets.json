@@ -1,0 +1,2651 @@
+[{
+  "_id": {
+    "$oid": "670635654633a271c4bc4b65"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddb6"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Monitor",
+  "code": "1/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "66fcb7a40353cf86e49a72fa"
+  },
+  "type": "G221T",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2024-04-03T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "total_units": 1,
+  "price_per_unit": 2159000,
+  "economic_life": 2,
+  "image": {
+    "$oid": "6706354b4633a271c4bc4b48"
+  },
+  "attachments": [
+    {
+      "$oid": "670635524633a271c4bc4b51"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-09T07:48:53.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T02:32:06.625Z"
+  },
+  "__v": 0,
+  "description": "",
+  "invoice_number": "",
+  "manufacturer": "",
+  "serial_number": ""
+},
+{
+  "_id": {
+    "$oid": "67077ead60f88002fff5d98e"
+  },
+  "author": {
+    "$oid": "670633c74633a271c4bc4ad4"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Stand TV",
+  "code": "2/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "66f27326b85107cae1cb8819"
+  },
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2023-03-06T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2733bb85107cae1cb8844"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1573390,
+  "economic_life": 0,
+  "image": {
+    "$oid": "670641cc60f88002fff5d85c"
+  },
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-10T07:13:49.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T07:13:49.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707849560f88002fff5da79"
+  },
+  "author": {
+    "$oid": "67077faa60f88002fff5d9ba"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Lemari Arsip",
+  "code": "3/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "66fb50b540ea1d902d029916"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 1,
+  "purchase_date": {
+    "$date": "2024-08-08T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2733bb85107cae1cb8844"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 904901,
+  "economic_life": 0,
+  "image": {
+    "$oid": "6707834f60f88002fff5d9e7"
+  },
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-10T07:39:01.191Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T07:39:01.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707896760f88002fff5dac5"
+  },
+  "author": {
+    "$oid": "67077faa60f88002fff5d9ba"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Meja Lipat",
+  "code": "4/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-01-15T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2733bb85107cae1cb8844"
+  },
+  "total_units": 1,
+  "price_per_unit": 1298000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-10T07:59:35.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T07:59:35.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67078d3760f88002fff5dae8"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Supra D 5583 XGD USTD HAFIDZ",
+  "code": "5/INV/10/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca5260224d403dfa00641"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2012,
+  "purchase_date": {
+    "$date": "2012-02-12T17:00:00.000Z"
+  },
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-10T08:15:51.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T08:15:51.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c6ec3131667a72bf9a75"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6708c5d53131667a72bf9a3f"
+  },
+  "name": " Honda Beat D 4462 UDT KANG IMAM",
+  "code": "6/INV/10/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-08-01T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2735eb85107cae1cb884c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 19300000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-11T06:34:20.884Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T06:34:20.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c9bd3131667a72bf9b05"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27389b85107cae1cb88c3"
+  },
+  "name": "Honda Beat USTD YEDI D 6529 XGL",
+  "code": "7/INV/10/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca5260224d403dfa00641"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2010,
+  "purchase_date": {
+    "$date": "2011-05-24T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27364b85107cae1cb8854"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 19000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-11T06:46:21.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T06:46:21.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708cdc63131667a72bf9b42"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6708c5d53131667a72bf9a3f"
+  },
+  "name": "Honda Beat YUSUF D 3245 UDO",
+  "code": "8/INV/10/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca5840224d403dfa0067d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2018,
+  "purchase_date": {
+    "$date": "2018-08-09T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27364b85107cae1cb8854"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 19500000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-11T07:03:34.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T07:03:34.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708d2a73131667a72bf9b51"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6708c5d53131667a72bf9a3f"
+  },
+  "name": "Honda Beat YUSUF D 3245 UDO",
+  "code": "9/INV/10/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca5260224d403dfa00641"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2017,
+  "purchase_date": {
+    "$date": "2018-08-09T17:00:00.000Z"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 18000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-11T07:24:23.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T07:24:23.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c8e793131667a72bf9bb2"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf5"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Honda Beat PAK HANDRIANA D 5109 UDI",
+  "code": "10/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2017,
+  "purchase_date": {
+    "$date": "2018-12-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2735eb85107cae1cb884c"
+  },
+  "total_units": 1,
+  "price_per_unit": 19000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-14T03:22:33.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-14T03:22:33.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c8ff03131667a72bf9c1c"
+  },
+  "author": {
+    "$oid": "67078bc245ac07e49d76dda7"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": " Yamaha Gear D 2086 UEQ ANDRI KN",
+  "code": "11/INV/10/2024",
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": " Yamaha Gear D 2086 UEQ ",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2022,
+  "purchase_date": {
+    "$date": "2022-08-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 19000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-14T03:28:48.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-14T03:28:48.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c964f3131667a72bf9c60"
+  },
+  "author": {
+    "$oid": "67078bc245ac07e49d76ddaa"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Yamaha Gear D 2085 UEQ (SUPRIADI)",
+  "code": "12/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "Yamaha Gear D 2085 UEQ ",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2022,
+  "purchase_date": {
+    "$date": "2022-02-01T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 12500000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-14T03:55:59.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-14T03:55:59.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ccd4e3131667a72bf9cd4"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76de0d"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "DAIHATSU AQIQAH AL HILAL D 8454 UG",
+  "code": "13/INV/10/2024",
+  "category": {
+    "$oid": "66fca50c0224d403dfa00619"
+  },
+  "sub_category": {
+    "$oid": "66fca5200224d403dfa00637"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "DAIHATSU D 8454 UG",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2017,
+  "purchase_date": {
+    "$date": "2017-10-29T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 175000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-14T07:50:38.105Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-14T07:50:38.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f302637c81dcc5d5d5d21"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": " Daihatsu",
+  "code": "14/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "AMBULANCE CIBIRU D 1635 UAY",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2019,
+  "purchase_date": {
+    "$date": "2019-09-16T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1320000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-16T03:16:54.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T03:16:54.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f3fa637c81dcc5d5d5df9"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "670f306637c81dcc5d5d5d65"
+  },
+  "name": " DAIHATSU D 8651 UF",
+  "code": "15/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": " DAIHATSU D 8651 UF",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-08-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 110000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-16T04:23:02.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T04:23:02.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f408637c81dcc5d5d5e3e"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27389b85107cae1cb88c3"
+  },
+  "name": " Mobil Daihatsu Putih",
+  "code": "16/INV/10/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca5260224d403dfa00641"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "D 1397 XGD",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2017,
+  "purchase_date": {
+    "$date": "2017-01-29T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 91000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-16T04:26:46.563Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T04:26:46.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f417837c81dcc5d5d5e83"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27389b85107cae1cb88c3"
+  },
+  "name": "Suzuki Putih (Ambulance Cililin)",
+  "code": "17/INV/10/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca5260224d403dfa00641"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "D 9956 XA",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2013,
+  "purchase_date": {
+    "$date": "2014-03-25T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 114000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-16T04:30:48.832Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T04:30:48.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f45b637c81dcc5d5d5ec8"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddc5"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Mobil Suzuki Putih Ambulance Al Hilal",
+  "code": "18/INV/10/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": " Mobil Suzuki Putih S-00530624",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-08-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 110200000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-10-16T04:48:54.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T04:48:54.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67245621d69b210aa57ebb68"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddc5"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Mobil Isuzu Putih (Food Truck) D 8997 UI",
+  "code": "1/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "(Food Truck) D 8997 UI",
+  "manufacturer": "PT Isuzu Astra Motor Indonesia",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2023-03-13T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 101000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "2023",
+  "createdAt": {
+    "$date": "2024-11-01T04:16:33.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T04:16:33.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6724575bd69b210aa57ebb88"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddc5"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "DAIHATSU OPERASIONAL LAZIS D 1776 UBD",
+  "code": "2/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "D 1776 UBD",
+  "manufacturer": "PT Astra Daihatsu Motor",
+  "serial_number": "-",
+  "production_year": 2021,
+  "purchase_date": {
+    "$date": "2021-02-10T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 135000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-01T04:21:47.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T04:21:47.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67245e51d69b210aa57ebc5e"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddc8"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Kipas Angin",
+  "code": "3/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-01-31T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 2000000,
+  "economic_life": 0,
+  "attachments": [],
+  "createdAt": {
+    "$date": "2024-11-01T04:51:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T04:51:29.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6724850cd69b210aa57ebd21"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Samsung Longdimm",
+  "code": "4/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "brand": {
+    "$oid": "66fb4e15df876e1240199dae"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-03-25T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2733bb85107cae1cb8844"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 3787390,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-01T07:36:44.948Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T07:36:44.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67248c0ad69b210aa57ebd70"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Meja Rapat ",
+  "code": "5/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-04-30T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 2850000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-01T08:06:34.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T08:06:34.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672495ced69b210aa57ebf5a"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "Laptop Bawais",
+  "code": "6/INV/11/2024",
+  "brand": {
+    "$oid": "66f2730ab85107cae1cb87bf"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 8445998,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-01T08:48:14.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T08:48:14.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672864e0d69b210aa57ec0a3"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "Hp bawais",
+  "code": "7/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-04T06:08:32.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-04T06:08:32.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6728657fd69b210aa57ec0c3"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "Hp bawais",
+  "code": "8/INV/11/2024",
+  "category": {
+    "$oid": "6708c6273131667a72bf9a60"
+  },
+  "sub_category": {
+    "$oid": "672496c1d69b210aa57ebf84"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-04T06:11:11.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-04T06:11:11.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67286684d69b210aa57ec0e3"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "Hp bawais",
+  "code": "9/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-04T06:15:32.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-04T06:15:32.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67287df0d69b210aa57ec117"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Pc Laptop Asus ",
+  "code": "10/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "brand": {
+    "$oid": "66f2730ab85107cae1cb87bf"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-08-04T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-04T07:55:28.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-04T07:55:28.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6728836ed69b210aa57ec137"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddc5"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Tandu",
+  "code": "11/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-06-02T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-04T08:18:54.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-04T08:18:54.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297865d69b210aa57ec1b4"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Hp Markom Al Hilal",
+  "code": "12/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-08-04T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 5575030,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T01:44:05.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T01:44:05.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672978fad69b210aa57ec1d4"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Laptop Markom Al Hilal",
+  "code": "13/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "66f2730ab85107cae1cb87bf"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-08-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 7233029,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T01:46:34.774Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T01:46:34.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297992d69b210aa57ec1f4"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Modul fifo lifo Zahir",
+  "code": "14/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-01-17T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 700002,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T01:49:06.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T01:49:06.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297a8ad69b210aa57ec26f"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf5"
+  },
+  "location": {
+    "$oid": "6708c5d53131667a72bf9a3f"
+  },
+  "name": "Mesinn molen cor",
+  "code": "15/INV/11/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca5260224d403dfa00641"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-08-03T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 10499995,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T01:53:14.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T01:53:14.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297ba3d69b210aa57ec28f"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Foodtruck",
+  "code": "16/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "2023",
+  "production_year": 1,
+  "purchase_date": {
+    "$date": "2024-03-26T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 330000000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T01:57:55.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T01:57:55.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297d14d69b210aa57ec2af"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Motor Oprasional",
+  "code": "17/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-09-26T17:00:00.000Z"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 18375000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:04:04.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:04:04.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297da0d69b210aa57ec2cf"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27389b85107cae1cb88c3"
+  },
+  "name": "Kursi Cheetos 20 unit",
+  "code": "18/INV/11/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca53c0224d403dfa0065f"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2023-02-05T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 20,
+  "price_per_unit": 160000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:06:24.773Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:06:24.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297e4bd69b210aa57ec2ef"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Lemari Arsip",
+  "code": "19/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-03-01T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2733bb85107cae1cb8844"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1667000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:09:15.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:09:15.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67297fa0d69b210aa57ec347"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Meja Kerja",
+  "code": "20/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2024-06-06T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1350000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:14:56.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:14:56.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67298091d69b210aa57ec367"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "White board",
+  "code": "21/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-11-01T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1050000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:18:57.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:18:57.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729818ed69b210aa57ec387"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "AMD RYZEN 5 3600 6-Core 3.6 GHz (4.",
+  "code": "22/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-01-09T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 2015100,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:23:10.053Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:23:10.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672982b9d69b210aa57ec3a7"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Beli CCTV servis dan pasang",
+  "code": "23/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-02-14T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1025000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:28:09.369Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:28:09.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729830ad69b210aa57ec3c7"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "HDD Eksternal 5TB",
+  "code": "24/INV/11/2024",
+  "category": {
+    "$oid": "6708c6273131667a72bf9a60"
+  },
+  "sub_category": {
+    "$oid": "672496c1d69b210aa57ebf84"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2022,
+  "purchase_date": {
+    "$date": "2023-11-02T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:29:30.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:29:30.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672983bfd69b210aa57ec3e7"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "HP Samsung ",
+  "code": "25/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-08-20T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 2686762,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "(keuangan)",
+  "createdAt": {
+    "$date": "2024-11-05T02:32:31.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:32:31.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672984f2d69b210aa57ec432"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Hp Infinix",
+  "code": "26/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-07-05T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 5434000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:37:38.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:37:38.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67298687d69b210aa57ec480"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "LAPTOP HP 14S DK1524AU - AMD ATHLON",
+  "code": "27/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "LAPTOP HP 14S DK1524AU - AMD ATHLON",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-01-09T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 5434000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:44:23.571Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:44:23.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672987a1d69b210aa57ec4cb"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Laptop Xiaomi ",
+  "code": "28/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "66f27329b85107cae1cb8820"
+  },
+  "type": "RedmiBook 15 intel i3",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-01-11T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 4934200,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:49:05.887Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:49:05.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67298889d69b210aa57ec4eb"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Lensa Camera",
+  "code": "29/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-02-12T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 4425700,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:52:57.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:52:57.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67298905d69b210aa57ec50b"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Monitor LED dan Mouse",
+  "code": "30/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-04-02T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 2086298,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T02:55:01.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T02:55:01.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67299fb7d69b210aa57ec53f"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Monitor Samsung 24\" 75hz S24R350 IP",
+  "code": "31/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "66fb4e15df876e1240199dae"
+  },
+  "type": "Monitor Samsung 24\" 75hz S24R350 IP",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-01-03T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1829000,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T04:31:51.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T04:31:51.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729aabbd69b210aa57ec55f"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Smart TV",
+  "code": "32/INV/11/2024",
+  "category": {
+    "$oid": "66fca50c0224d403dfa00619"
+  },
+  "sub_category": {
+    "$oid": "66fca5820224d403dfa00673"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-08-08T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 5088910,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T05:18:51.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T05:18:51.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729abbcd69b210aa57ec57f"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27389b85107cae1cb88c3"
+  },
+  "name": "Kursi Citos 30pcs",
+  "code": "33/INV/11/2024",
+  "category": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "sub_category": {
+    "$oid": "66fca53c0224d403dfa0065f"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2022,
+  "purchase_date": {
+    "$date": "2023-11-22T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "invoice_number": "-",
+  "total_units": 30,
+  "price_per_unit": 170,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-05T05:23:08.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T05:23:08.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ac57cd69b210aa57ec626"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "HP Markom Bawais",
+  "code": "34/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-11-22T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 3649999,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:25:16.854Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:25:16.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ac695d69b210aa57ec66e"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Sperpat PC Tim ADV",
+  "code": "35/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2023-12-28T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 2164855,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:29:57.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:29:57.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ac752d69b210aa57ec6a2"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "Hp bawais",
+  "code": "36/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2024-08-29T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:33:06.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:33:06.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ac7dbd69b210aa57ec6c2"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "PC Markom Bawais",
+  "code": "37/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 8445999,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:35:23.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:35:23.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672acb09d69b210aa57ec6e2"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "PC Markom Bawais",
+  "code": "38/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2023-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 689097,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:48:57.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:48:57.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672acb99d69b210aa57ec702"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "PC Markom Bawais",
+  "code": "39/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2024,
+  "purchase_date": {
+    "$date": "2024-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 278697,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:51:21.035Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:51:21.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672acc2cd69b210aa57ec74d"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "Finger Print bawais",
+  "code": "40/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-05-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 442696,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:53:48.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:53:48.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672acca9d69b210aa57ec76d"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Hardisk ",
+  "code": "41/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "-",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "production_year": 2023,
+  "purchase_date": {
+    "$date": "2024-08-07T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 0,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:55:53.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:55:53.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672acd00d69b210aa57ec78d"
+  },
+  "author": {
+    "$oid": "67078bc345ac07e49d76ddf2"
+  },
+  "location": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Monitor LED SAMSUNG ",
+  "code": "42/INV/11/2024",
+  "category": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "sub_category": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "brand": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "type": "Monitor LED SAMSUNG S33GC S27C330 27 Flat IPS 1080p",
+  "manufacturer": "-",
+  "serial_number": "-",
+  "purchase_date": {
+    "$date": "2024-10-09T17:00:00.000Z"
+  },
+  "store": {
+    "$oid": "66f2733bb85107cae1cb8844"
+  },
+  "invoice_number": "-",
+  "total_units": 1,
+  "price_per_unit": 1698300,
+  "economic_life": 0,
+  "attachments": [],
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-06T01:57:20.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-06T01:57:20.438Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,313 @@
+[{
+  "_id": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "name": "LAZ",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:42:33.751Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:42:33.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca50c0224d403dfa00619"
+  },
+  "name": "Aqiqah",
+  "parent": null,
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:42:36.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:42:36.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "name": "Pesantren",
+  "parent": null,
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:42:40.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:42:40.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca51b0224d403dfa0062d"
+  },
+  "name": "Otomotif",
+  "parent": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:42:51.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:42:51.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5200224d403dfa00637"
+  },
+  "name": "Otomotif",
+  "parent": {
+    "$oid": "66fca50c0224d403dfa00619"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:42:56.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:42:56.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5260224d403dfa00641"
+  },
+  "name": "Otomotif",
+  "parent": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:43:02.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:43:02.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5370224d403dfa0064b"
+  },
+  "name": "Office & Furniture",
+  "parent": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:43:19.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:43:19.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca53a0224d403dfa00655"
+  },
+  "name": "Office & Furniture",
+  "parent": {
+    "$oid": "66fca50c0224d403dfa00619"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:43:22.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:43:22.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca53c0224d403dfa0065f"
+  },
+  "name": "Office & Furniture",
+  "parent": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:43:24.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:43:24.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5800224d403dfa00669"
+  },
+  "name": "Elektronik",
+  "parent": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:44:32.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:44:32.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5820224d403dfa00673"
+  },
+  "name": "Elektronik",
+  "parent": {
+    "$oid": "66fca50c0224d403dfa00619"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:44:34.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:44:34.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5840224d403dfa0067d"
+  },
+  "name": "Elektronik",
+  "parent": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:44:36.804Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:44:36.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5c60224d403dfa00687"
+  },
+  "name": "Real Estate",
+  "parent": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:45:42.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:45:42.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5ca0224d403dfa00691"
+  },
+  "name": "Real Estate",
+  "parent": {
+    "$oid": "66fca50c0224d403dfa00619"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:45:46.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:45:46.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fca5cf0224d403dfa0069b"
+  },
+  "name": "Real Estate",
+  "parent": {
+    "$oid": "66fca5100224d403dfa00623"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T01:45:51.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T01:45:51.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c6273131667a72bf9a60"
+  },
+  "name": "-",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-11T06:31:03.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T06:31:03.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672494a3d69b210aa57ebe81"
+  },
+  "name": "Laptop Bawais",
+  "parent": {
+    "$oid": "66fca5090224d403dfa0060f"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-11-01T08:43:15.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T08:43:15.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67249546d69b210aa57ebf24"
+  },
+  "name": "Laptop Bawais",
+  "parent": {
+    "$oid": "6708c6273131667a72bf9a60"
+  },
+  "description": "",
+  "createdAt": {
+    "$date": "2024-11-01T08:45:58.012Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T08:45:58.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672496c1d69b210aa57ebf84"
+  },
+  "name": "-",
+  "parent": {
+    "$oid": "6708c6273131667a72bf9a60"
+  },
+  "description": "-",
+  "createdAt": {
+    "$date": "2024-11-01T08:52:17.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T08:52:17.281Z"
+  },
+  "__v": 0
+}]

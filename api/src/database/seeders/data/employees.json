@@ -1,0 +1,1643 @@
+[
+  {
+    "_id": {
+      "$oid": "67078bc245ac07e49d76dda4"
+    },
+    "name": "IWAN SETIAWAN S.Si",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1976-06-12T17:00:00.000Z"
+    },
+    "phone_number": "6285257351628",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "NGAMPRAH",
+      "complete": "PURI CIPAGERAN INDAH 12 BLOK E NO.66 RT/005 RW/021"
+    },
+    "nik_number": "321706130670010",
+    "other_documents_url": [],
+    "position": "director",
+    "department": "laz",
+    "division": "other",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2011-12-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:38.921Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:36:48.221Z"
+    },
+    "nip": "197606132012010001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "673456abfa94ebbbc8079fc9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc245ac07e49d76dda7"
+    },
+    "name": "ANDRI KURNIA NUGRAHA",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1983-07-17T17:00:00.000Z"
+    },
+    "phone_number": "6287825858212",
+    "address": {
+      "city": "KABUPATEN CIANJUR",
+      "province": "JAWA BARAT",
+      "subdistrict": "BOJONGPICUNG",
+      "complete": "JL. BOJONGPICUNG 004/002 BOJONGPICUNG"
+    },
+    "nik_number": "3203061807830006",
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "laz",
+    "division": "program",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2012-04-30T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:38.980Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:38:04.947Z"
+    },
+    "nip": "198307182012050001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "673456a8fa94ebbbc8079fc0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc245ac07e49d76ddaa"
+    },
+    "name": "SUPRIADI",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1989-01-13T17:00:00.000Z"
+    },
+    "phone_number": "6285157551165",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "LEMBANG",
+      "complete": "KP. CIRATEUN PEUNTAS RT/001 RW /013"
+    },
+    "nik_number": "3205411101890001",
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2012-05-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:38.987Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:32:54.388Z"
+    },
+    "nip": "198901142012060001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "name": "HANAFI HERDIANSAH",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1995-03-04T17:00:00.000Z"
+    },
+    "phone_number": "81394329963",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "BABAKAN CIPARAY",
+      "complete": "jalan soekarno hatta gang Hasan II"
+    },
+    "nik_number": "3273030503950004",
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2016-01-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:38.997Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:22:45.031Z"
+    },
+    "nip": "199503052016020001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddb0"
+    },
+    "name": "ISEF FAOZI",
+    "gender": "perempuan",
+    "address": {
+      "city": "",
+      "province": "",
+      "subdistrict": "",
+      "complete": ""
+    },
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "other",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2015-05-21T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.004Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.004Z"
+    },
+    "nip": "0NaNNaNNaN2015050001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddb3"
+    },
+    "name": "MUTHIA DEWI INDRIANI",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1995-01-22T17:00:00.000Z"
+    },
+    "phone_number": "6285156430535",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "PADALARANG",
+      "complete": "Jl Cijeungjing RT/003 RW/021 KERTAMULYA"
+    },
+    "nik_number": "3204446301950007",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2018-11-30T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.013Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.013Z"
+    },
+    "nip": "199501232018120001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddb6"
+    },
+    "name": "ZULFIKAR AHMAD",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1997-07-11T17:00:00.000Z"
+    },
+    "email": "zulfikar1ahmad@gmail.com",
+    "phone_number": "082118358997",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "PARONGPONG",
+      "complete": ""
+    },
+    "nik_number": "3217021207970009",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2018-12-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.018Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:26:27.192Z"
+    },
+    "nip": "199707122019010001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddb9"
+    },
+    "name": "YERRA MARLIANA",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1995-07-08T17:00:00.000Z"
+    },
+    "phone_number": "6287878542243",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "CICENDO",
+      "complete": "JL BABAKAM CANJUR 03/02 SUKARAJA CICENDO"
+    },
+    "nik_number": "3273064909750002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "finance",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2019-01-07T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.028Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:27:02.586Z"
+    },
+    "nip": "199507092019010001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddbc"
+    },
+    "name": "INDRA RIZKI PRABOWO",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1996-04-03T17:00:00.000Z"
+    },
+    "phone_number": "6287743675154",
+    "address": {
+      "city": "KOTA CIMAHI",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIMAHI TENGAH",
+      "complete": "JL WARUNG CONTING NO. 12 "
+    },
+    "nik_number": "3277020404940001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2019-01-08T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.035Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:23:23.333Z"
+    },
+    "nip": "199604042019010001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddbf"
+    },
+    "name": "NADIA DWI RAHAYU",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1997-08-12T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6289662243640",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "PADALARANG",
+      "complete": "Jl. Cijeungjing RT/001 RW/005 Desa Kertamulya "
+    },
+    "nik_number": "3217085908970012",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "other",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2019-07-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.039Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.039Z"
+    },
+    "nip": "199708132019080001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddc2"
+    },
+    "name": "NAFISAH SAMRATUL FUADIYAH",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-07-28T17:00:00.000Z"
+    },
+    "phone_number": "6285711513115",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIBEUNYING KIDUL",
+      "complete": "GG. IRIT NO.25/211-A RT/009 RW/009"
+    },
+    "nik_number": "3273146907980002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2020-11-30T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.047Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.047Z"
+    },
+    "nip": "199807292020120001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddc5"
+    },
+    "name": "M ROZAK RIZKI",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "2001-10-13T17:00:00.000Z"
+    },
+    "phone_number": "085722745613",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "CISARUA",
+      "complete": "KP. BABAKAN CINTA RT/005 RW/004 PASIRHALANG"
+    },
+    "nik_number": "3217021410010003",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "other",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-01-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.051Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:37:10.388Z"
+    },
+    "nip": "200110142021020001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "6734569efa94ebbbc8079fb7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "name": "FAJAR MAULANA",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1998-08-14T17:00:00.000Z"
+    },
+    "phone_number": "6281224011397",
+    "address": {
+      "city": "KOTA CIMAHI",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIMAHI SELATAN",
+      "complete": "Cimindi Barat RT/002 RW/018"
+    },
+    "nik_number": "3208081508980002",
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "laz",
+    "division": "program",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-07-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.056Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:35:34.679Z"
+    },
+    "nip": "199808152021080001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "67345696918b47628e0996e2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddcb"
+    },
+    "name": "MUHAMMAD RIDDAM RACHMADIANSYAH",
+    "gender": "perempuan",
+    "address": {
+      "city": "",
+      "province": "",
+      "subdistrict": "",
+      "complete": ""
+    },
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2001-08-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.062Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.062Z"
+    },
+    "nip": "0NaNNaNNaN2001090001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddce"
+    },
+    "name": "ERI MAULANA",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1996-07-22T17:00:00.000Z"
+    },
+    "phone_number": "6285524427994",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "ASTANAANYAR",
+      "complete": "Jl. Jamhari No.85/95 RT/001 RW/002 Pelindung Hewan Astana Anyar"
+    },
+    "nik_number": "3273102307960003",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-10-23T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.067Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:21:01.281Z"
+    },
+    "nip": "199607232021100001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddd1"
+    },
+    "name": "Siti Munawarotul Asriah",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1999-08-18T17:00:00.000Z"
+    },
+    "phone_number": "6281573754461",
+    "address": {
+      "city": "KABUPATEN PURWAKARTA",
+      "province": "JAWA BARAT",
+      "subdistrict": "DARANGDAN",
+      "complete": "KP. SLAGANGGENG 07/03 CILINGGA DARANGDAN"
+    },
+    "nik_number": "3214065908990002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "finance",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-12-05T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.070Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:28:45.219Z"
+    },
+    "nip": "199908192021120001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddda"
+    },
+    "name": "ELIS PARWATI",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-02-20T17:00:00.000Z"
+    },
+    "phone_number": "6283822638388",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "LEMBANG",
+      "complete": "Kp. Pamecelan, RT/RW 002/005 Sukajaya Lembang"
+    },
+    "nik_number": "3217016102980009",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-12-13T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.087Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-11T06:43:05.347Z"
+    },
+    "nip": "199802212021120001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76dddd"
+    },
+    "name": "ASHFA NURFAIZI",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1999-10-24T17:00:00.000Z"
+    },
+    "phone_number": "6282240770804",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "KIARACONDONG",
+      "complete": "Jl. Mekarsari 004/016 Babakan Sari Kiaracondong "
+    },
+    "nik_number": "3273162510990004",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-01-02T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.090Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:16:42.369Z"
+    },
+    "nip": "199910252022010001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76dde0"
+    },
+    "name": "AHMAD FAUZI",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1998-08-14T17:00:00.000Z"
+    },
+    "phone_number": "628978835779",
+    "address": {
+      "city": "KOTA CIMAHI",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIMAHI SELATAN",
+      "complete": "JL. RANCABENTANG NO. 171 007/013"
+    },
+    "nik_number": "3277011008980001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-01-02T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.097Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-11T06:44:29.149Z"
+    },
+    "nip": "199808152022010001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76dde3"
+    },
+    "name": "MUHAMMAD IQBAL",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "2003-12-26T17:00:00.000Z"
+    },
+    "phone_number": "6288970824159",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIBEUNYING KIDUL",
+      "complete": "JL. SUKARAJIN II GG. SASTRODIHARJO V NO.10 003/012"
+    },
+    "nik_number": "3215052712030004",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-08-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.100Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:27:49.526Z"
+    },
+    "nip": "200312272022090001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76dde6"
+    },
+    "name": "AZIS MAULANA",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "2004-05-17T17:00:00.000Z"
+    },
+    "phone_number": "6287825561841",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "PADALARANG",
+      "complete": "KP. RANCABALI RT/001 RW/005"
+    },
+    "nik_number": "3217081805040013",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-10-22T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.103Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:18:36.700Z"
+    },
+    "nip": "200405182022100001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76dde9"
+    },
+    "name": "Rizal hadizan ",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1989-08-16T17:00:00.000Z"
+    },
+    "address": {
+      "city": "",
+      "province": "",
+      "subdistrict": "",
+      "complete": ""
+    },
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "other",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2017-07-11T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.106Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.106Z"
+    },
+    "nip": "198908172017070001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddec"
+    },
+    "name": "Reksa ",
+    "gender": "laki-laki",
+    "address": {
+      "city": "",
+      "province": "",
+      "subdistrict": "",
+      "complete": ""
+    },
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-01-11T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.114Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.114Z"
+    },
+    "nip": "0NaNNaNNaN2022010002",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "name": "PUTRI ANNA",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "2001-06-29T17:00:00.000Z"
+    },
+    "phone_number": "62895376754525",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "SUKAJADI",
+      "complete": "Kawarna"
+    },
+    "nik_number": "3273077006010002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "program",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-12-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.119Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:34:08.984Z"
+    },
+    "nip": "200106302023010001",
+    "__v": 0,
+    "email": "putriannafitriya@gmail.com",
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "67345656918b47628e0996a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "name": "Asep Nurjaman ",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1991-12-09T17:00:00.000Z"
+    },
+    "email": "asepnurjaman112@gmail.com",
+    "phone_number": "085524731285",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "CILILIN",
+      "complete": "kp Rancapanggung Rt 001 Rw 005 Desa Rancapanggung Kecamatan Cililin Kab Bandung Barat "
+    },
+    "nik_number": "3273181012910001",
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "laz",
+    "division": "finance",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2016-01-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.123Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:40:07.906Z"
+    },
+    "nip": "199112102016020001",
+    "__v": 0,
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "673457cbfa94ebbbc807a1d7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddf5"
+    },
+    "name": "Handriana",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1980-07-05T17:00:00.000Z"
+    },
+    "phone_number": "081321018620",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "NGAMPRAH",
+      "complete": "Graha Bukit Raya F 11 No 27"
+    },
+    "nik_number": "3217060606800025",
+    "other_documents_url": [],
+    "position": "manager",
+    "department": "aqiqah",
+    "division": "other",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2011-12-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.127Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T01:08:48.161Z"
+    },
+    "nip": "198007062012010001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": "",
+    "other_documents": []
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddf8"
+    },
+    "name": "Siti Salma Alfa Reshi",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-02-19T17:00:00.000Z"
+    },
+    "phone_number": "6281573948590",
+    "address": {
+      "city": "KABUPATEN SUKABUMI",
+      "province": "JAWA BARAT",
+      "subdistrict": "NYALINDUNG",
+      "complete": "SUKAMAJU "
+    },
+    "nik_number": "3202396002980003",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-07-31T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.135Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:37:52.261Z"
+    },
+    "nip": "199802202022080001",
+    "__v": 0,
+    "email": "",
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "673456b2fa94ebbbc8079fdb"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "name": "NOVI LATHIFAH FAA",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-11-27T17:00:00.000Z"
+    },
+    "phone_number": "6282316696823",
+    "address": {
+      "city": "KABUPATEN BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIWIDEY",
+      "complete": "Alam Endah Rancabali"
+    },
+    "nik_number": "3204406811980001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "finance",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-12-12T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.139Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.139Z"
+    },
+    "nip": "199811282021120001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76ddfe"
+    },
+    "name": "Desi Kurniasari",
+    "gender": "perempuan",
+    "address": {
+      "city": "",
+      "province": "",
+      "subdistrict": "",
+      "complete": ""
+    },
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2019-06-19T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.142Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.142Z"
+    },
+    "nip": "0NaNNaNNaN2019060001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de01"
+    },
+    "name": "Selin",
+    "gender": "laki-laki",
+    "email": "",
+    "phone_number": "6285559002531",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "GEDEBAGE",
+      "complete": "Gedebage kulon"
+    },
+    "nik_number": "3273275111030002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2023-02-12T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.146Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-13T07:37:33.291Z"
+    },
+    "nip": "0NaNNaNNaN2023020001",
+    "__v": 0,
+    "npwp_number": "",
+    "other_documents": [],
+    "signature": {
+      "$oid": "673456affa94ebbbc8079fd2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de04"
+    },
+    "name": "Esih Sukaesih",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-10-14T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "62881023219150",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "SUKASARI",
+      "complete": "Sarijadi"
+    },
+    "nik_number": "3201195510980002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "aqiqah",
+    "division": "other",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-11-30T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.152Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:21:32.238Z"
+    },
+    "nip": "199810152021120001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de07"
+    },
+    "name": "Atik latifah",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1994-10-02T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6287845150515",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "RANCASARI",
+      "complete": "JL. MERKURI SELATAN NO. 12 RT/002 RW/008 MANJAHLEGA RANCASARI"
+    },
+    "nik_number": "3273234310940001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "marcomm",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2023-12-12T03:00:34.529Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.156Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:17:28.028Z"
+    },
+    "nip": "199410032023120001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de0a"
+    },
+    "name": "Tiara Annisa",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "2001-08-07T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6289512904145",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "NGAMPRAH",
+      "complete": "Tanimulya Ngamprah"
+    },
+    "nik_number": "3217064509010008",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2023-03-05T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.159Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:32:39.879Z"
+    },
+    "nip": "200108082023030001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de0d"
+    },
+    "name": "Fakhrurozi",
+    "gender": "laki-laki",
+    "email": "",
+    "phone_number": "6281253682702",
+    "address": {
+      "city": "KOTA CIMAHI",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIMAHI TENGAH",
+      "complete": "Cigugur Tengah Cimahi Tengah"
+    },
+    "nik_number": "3217060606930021",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "aqiqah",
+    "division": "other",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-01-09T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.162Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:22:06.335Z"
+    },
+    "nip": "0NaNNaNNaN2022010003",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de13"
+    },
+    "name": "ARI FEBRIANTI",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1997-02-22T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6283853333163",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIDADAP",
+      "complete": "CIDADAP BABAKAN RT/RW 005/004 LEDENG"
+    },
+    "nik_number": "3273086302970002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-02-10T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.170Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:15:17.292Z"
+    },
+    "nip": "199702232021020001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de16"
+    },
+    "name": "REVI MARIETA",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1984-09-03T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6282119332969",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "SUKASARI",
+      "complete": "SARIJADI FLAT SLT III NO. 8 RT/012 RW/006"
+    },
+    "nik_number": "3273014409840001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2020-12-14T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.173Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.173Z"
+    },
+    "nip": "198409042020120001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de19"
+    },
+    "name": "YOGI PURNAMA",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1992-03-06T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6288220471135",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "SUKAJADI",
+      "complete": "JL. DAMAR NO. 397 A RT/006/001 PASTEUR "
+    },
+    "nik_number": "3273070703920002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-02-10T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.176Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:26:48.394Z"
+    },
+    "nip": "199203072021020001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de1c"
+    },
+    "name": "ANDONI FEBRI RAMDANI",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1995-03-21T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6285759178212",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "KIARACONDONG",
+      "complete": "SUKALAKSANA RT/RW 001/011 CICAHEUM"
+    },
+    "nik_number": "3273162202950001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2020-12-14T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.179Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:03:21.201Z"
+    },
+    "nip": "199503222020120001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de1f"
+    },
+    "name": "ARJUN SARIPWICAKSONO",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "1995-09-11T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6289659154392",
+    "address": {
+      "city": "KABUPATEN BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "CILENGKRANG",
+      "complete": "JL. MELATI RAYA KEL. MELATIWANGI BLOK E. 22 NO. 13 RT/RW 003/005"
+    },
+    "nik_number": "3204071209950003",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-09-30T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.185Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:16:19.043Z"
+    },
+    "nip": "199509122021100001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de22"
+    },
+    "name": "SAFIRA KURNIAWATI",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1997-05-26T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6281322542674",
+    "address": {
+      "city": "KOTA CIMAHI",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIMAHI TENGAH",
+      "complete": "KOMPLEK PEMDA BLOK . NO 137 RT/003 RW/014 PADASUKA"
+    },
+    "nik_number": "3277026705970001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-11-15T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.188Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:30:19.000Z"
+    },
+    "nip": "199705272021110001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de25"
+    },
+    "name": "RISNANDA FAJAR",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "2024-11-08T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6282126672278",
+    "address": {
+      "city": "KOTA CIMAHI",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIMAHI TENGAH",
+      "complete": "JL. KOLONER MATSURI KP. WARUNG MUNCANG RT/RT 001/013"
+    },
+    "nik_number": "3217020911990005",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2021-11-15T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.191Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.191Z"
+    },
+    "nip": "202411092021110001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de28"
+    },
+    "name": "DAHLIYANTI PRATIWI",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-03-17T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6282219212116",
+    "address": {
+      "city": "KOTA BANDUNG",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIBEUNYING KIDUL",
+      "complete": "JL. SUKARASA NO. 98/143-E RT/006 RW/009"
+    },
+    "nik_number": "3273145803980004",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-12-10T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.195Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:20:23.871Z"
+    },
+    "nip": "199803182022120001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de2b"
+    },
+    "name": "AYU SARAH",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-07-31T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6288222466948",
+    "address": {
+      "city": "KABUPATEN SUBANG",
+      "province": "JAWA BARAT",
+      "subdistrict": "SAGALAHERANG",
+      "complete": "KP. CIDADAS 2 RT/015 RW/003 CIDADAS SAGALAHERANG"
+    },
+    "nik_number": "1802014108980002",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-12-10T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.197Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:18:06.410Z"
+    },
+    "nip": "199808012022120001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de31"
+    },
+    "name": "AISYAH FAHRATULNISSA",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "1998-08-17T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6287822553774",
+    "address": {
+      "city": "KABUPATEN BANDUNG BARAT",
+      "province": "JAWA BARAT",
+      "subdistrict": "CISARUA",
+      "complete": "KP. CIBADAK RT/005 RW/001 KERTAWANGI CISARUA"
+    },
+    "nik_number": "3217035808970006",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2022-08-07T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.208Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:02:41.530Z"
+    },
+    "nip": "199808182022080001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de37"
+    },
+    "name": "RIZKI AMALIA",
+    "gender": "perempuan",
+    "date_of_birth": {
+      "$date": "2000-06-02T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6289514326339",
+    "address": {
+      "city": "KABUPATEN BOMBANA",
+      "province": "SULAWESI TENGGARA",
+      "subdistrict": "POLEANG",
+      "complete": "DUSUN SULEWATANG KELURAHAN. KASTARIB POLERANG"
+    },
+    "nik_number": "7406014306000001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "laz",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2024-05-21T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.213Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-15T06:31:25.440Z"
+    },
+    "nip": "200006032024050001",
+    "__v": 0,
+    "npwp_number": ""
+  },
+  {
+    "_id": {
+      "$oid": "67078bc345ac07e49d76de3a"
+    },
+    "name": "Muhammad Ridwan Abdul Azis",
+    "gender": "laki-laki",
+    "date_of_birth": {
+      "$date": "2000-03-22T17:00:00.000Z"
+    },
+    "email": "",
+    "phone_number": "6281312524646",
+    "address": {
+      "city": "KABUPATEN CIANJUR",
+      "province": "JAWA BARAT",
+      "subdistrict": "CIDAUN",
+      "complete": "KP. CIKUPA RT/006 RW/002 PUNCAKBARU CIDAUN"
+    },
+    "nik_number": "3203232303000001",
+    "other_documents_url": [],
+    "position": "staff",
+    "department": "other",
+    "division": "fundraising",
+    "sallary": 0,
+    "join_at": {
+      "$date": "2024-05-22T17:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-10-10T08:09:39.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-10-10T08:09:39.217Z"
+    },
+    "nip": "200003232024050001",
+    "__v": 0
+  }
+]

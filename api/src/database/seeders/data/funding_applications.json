@@ -1,0 +1,3128 @@
+[
+  {
+    "_id": {
+      "$oid": "67357efefa94ebbbc807a313"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "23/DAKWAH/XI/2024",
+    "totalAmount": 15000000,
+    "amountSource": "dskl",
+    "description": "Operasional Pembangunan Masjid Al Hilal Cibiru",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "Kas Pembangunan Masjid Al Hilal Cibiru",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320009119919/Mandiri/Kas Pembangunan Masjid Al Hilal Cibiru",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 14,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-14T06:28:34.567Z"
+        },
+        "_id": {
+          "$oid": "67359892fa94ebbbc807a367"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-14T06:28:35.922Z"
+        },
+        "_id": {
+          "$oid": "67359893fa94ebbbc807a376"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-14T04:39:26.140Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T06:28:35.923Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673580c8fa94ebbbc807a32a"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "17/SOSIAL/XI/2024",
+    "totalAmount": 1400000,
+    "amountSource": "sedekah",
+    "description": "[SAHAL PANGANDARAN] Jumat Berkah : Berbagi Makanan dan Santunan Santri Dhuafa",
+    "program": "sosial",
+    "mustahik": "miskin",
+    "payTo": "SURYONO",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "401001000125530/BRI/SURYONO",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 14,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-14T06:28:37.534Z"
+        },
+        "_id": {
+          "$oid": "67359895fa94ebbbc807a386"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-14T06:28:38.776Z"
+        },
+        "_id": {
+          "$oid": "67359896fa94ebbbc807a397"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-14T04:47:04.935Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T06:28:38.777Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6735a2f6fa94ebbbc807a43f"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "18/SOSIAL/XI/2024",
+    "totalAmount": 75000,
+    "amountSource": "sedekah",
+    "description": "Reimburse Operasional Sejalan Bareng : 1) ke Rek.Amil = Rp 70.000 ; 2) ke Rek.Kegiatan = Rp 5.000",
+    "program": "sosial",
+    "mustahik": "fisabilillah",
+    "payTo": "Rekening Amil & Rekening Kegiatan",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rek. Amil = 7221486638/BSI ; Rek.Kegiatan = 1320017463119/Mandiri/Al-Hilal Rancapanggung",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "reimbursement",
+    "createdAtObj": {
+      "day": 14,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-14T07:13:38.530Z"
+        },
+        "_id": {
+          "$oid": "6735a322fa94ebbbc807a468"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-14T07:13:39.965Z"
+        },
+        "_id": {
+          "$oid": "6735a323fa94ebbbc807a47b"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-14T07:12:54.492Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T07:13:39.966Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6736f531fa94ebbbc807a666"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "24/DAKWAH/XI/2024",
+    "totalAmount": 3800000,
+    "amountSource": "sedekah",
+    "description": "Grading SAHAL November",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "SAHAL Daerah",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Terlampir",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 15,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:33:17.650Z"
+        },
+        "_id": {
+          "$oid": "6736f93dfa94ebbbc807a6f4"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:33:18.823Z"
+        },
+        "_id": {
+          "$oid": "6736f93efa94ebbbc807a709"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-15T07:16:01.545Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-15T07:33:18.823Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6736f6d5fa94ebbbc807a671"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "19/SOSIAL/XI/2024",
+    "totalAmount": 2800000,
+    "amountSource": "sedekah",
+    "description": "Buka Puasa Sunnah Santri Pesantren Al Hilal Panyileukan (NOV) : 4 pekan = 7, 14, 21, 28 November",
+    "program": "sosial",
+    "mustahik": "fisabilillah",
+    "payTo": "Pesantren Al Hilal Panyileukan",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320512355547/Mandiri/Yayasan Al Hilal",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 15,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:33:20.252Z"
+        },
+        "_id": {
+          "$oid": "6736f940fa94ebbbc807a71f"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:33:21.531Z"
+        },
+        "_id": {
+          "$oid": "6736f941fa94ebbbc807a736"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-15T07:23:01.715Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-15T07:33:21.531Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6736f751fa94ebbbc807a6b4"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "2/BIAYA_PELATIHAN_AMIL/XI/2024",
+    "totalAmount": 1000000,
+    "amountSource": "amil",
+    "description": "Biaya workshop MUI 2 hari \nasep nurjaman \nUstd Arif rahman Hakim ",
+    "program": "biaya_pelatihan_amil",
+    "mustahik": "lainnya",
+    "payTo": "Transfer ",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "6600010048 BSI DSN MUI Perwakilan Kabar",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 15,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-15T07:25:05.121Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-15T07:25:05.121Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6736f880fa94ebbbc807a6c3"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "11/EKONOMI/XI/2024",
+    "totalAmount": 4149900,
+    "amountSource": "zakat",
+    "description": "Bantuan UMKM (Ibu Nur Ashopah) - Pembelian Kursi Belajar Anak & Peralatan Playground",
+    "program": "ekonomi",
+    "mustahik": "fisabilillah",
+    "payTo": "Arif Rahman Hakim",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320022671060/Mandiri/ARIF RAHMAN HAKIM",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 15,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:33:24.895Z"
+        },
+        "_id": {
+          "$oid": "6736f944fa94ebbbc807a74e"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:33:26.109Z"
+        },
+        "_id": {
+          "$oid": "6736f946fa94ebbbc807a767"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-15T07:30:08.707Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-15T07:33:26.109Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6736fb56fa94ebbbc807a79d"
+    },
+    "employee": {
+      "$oid": "67078bc245ac07e49d76ddaa"
+    },
+    "ppdNumber": "2/LAINNYA/XI/2024",
+    "totalAmount": 225000,
+    "amountSource": "amil",
+    "description": "masing2 50.000 kenomer dibawah ini\n1. 0888-0231-0272 ( Sadam )2.  0898-9220-733 ( Annisa )\n3. 0877-8881-8211 ( Anggun )\n4. 0878-4665-5387 ( Geugeut )\n\nnomer loker ini mah 25.000 we mang 0888-8973-582",
+    "program": "lainnya",
+    "mustahik": "lainnya",
+    "payTo": "tokopedia",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddaa"
+    },
+    "paymentMethod": "virtual_account",
+    "paymentCredentials": "6045085524731285",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 15,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-15T07:42:14.378Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-15T07:42:14.378Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6736fed6fa94ebbbc807a7bc"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "25/DAKWAH/XI/2024",
+    "totalAmount": 750000,
+    "amountSource": "sedekah",
+    "description": "[MTA PAJAJARAN] Kajian MTA : Konsumsi dan Santunan Dhuafa Yatim",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "SITI ROHAENAH",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "078001018189535/BRI/SITI ROHAENAH",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 15,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:57:15.810Z"
+        },
+        "_id": {
+          "$oid": "6736fedbfa94ebbbc807a7e1"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-15T07:57:16.994Z"
+        },
+        "_id": {
+          "$oid": "6736fedcfa94ebbbc807a7fc"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-15T07:57:10.297Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-15T07:57:16.995Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6737f7f9fa94ebbbc807a8ef"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "10/OPERASIONAL_KANTOR/XI/2024",
+    "totalAmount": 3192000,
+    "amountSource": "amil",
+    "description": "Pembuatan goodybag lazis al hilal ",
+    "program": "operasional_kantor",
+    "mustahik": "lainnya",
+    "payTo": "Transfer",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "8803981430 BSI eri maulana ",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 16,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-16T02:26:13.987Z"
+        },
+        "_id": {
+          "$oid": "673802c5fa94ebbbc807a947"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-16T02:26:15.430Z"
+        },
+        "_id": {
+          "$oid": "673802c7fa94ebbbc807a95c"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-16T01:40:09.454Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-16T02:26:15.516Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67395617fa94ebbbc807a9ad"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "1/MAINTENANCE_KENDARAAN/XI/2024",
+    "totalAmount": 1625000,
+    "amountSource": "amil",
+    "description": "pembelian spertpart mobil lazis al hilal ",
+    "program": "maintenance_kendaraan",
+    "mustahik": "lainnya",
+    "payTo": "toko ",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "0860453037 BCA Djoni",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 17,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-17T02:33:59.972Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-17T02:33:59.972Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673959c7fa94ebbbc807a9b1"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "2/MAINTENANCE_KENDARAAN/XI/2024",
+    "totalAmount": 380000,
+    "amountSource": "amil",
+    "description": "Pembelian kunci sock ",
+    "program": "maintenance_kendaraan",
+    "mustahik": "lainnya",
+    "payTo": "CV Bintang Mas",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "411310109770534 BRI Fajar",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 17,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-17T02:49:43.594Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-17T02:49:43.594Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673a9b12fa94ebbbc807a9b7"
+    },
+    "employee": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "ppdNumber": "20/SOSIAL/XI/2024",
+    "totalAmount": 1000000,
+    "amountSource": "sedekah",
+    "description": "Santunan Dhuafa (Pak Kasman)",
+    "program": "sosial",
+    "mustahik": "lainnya",
+    "payTo": "Hanafi",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320022671052 an Hanapi Herdiansyah ",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:55:57.007Z"
+        },
+        "_id": {
+          "$oid": "673d960d64114b289adc97fd"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "amountSource",
+        "oldData": "dskl",
+        "newData": "sedekah",
+        "date": {
+          "$date": "2024-11-20T07:55:57.116Z"
+        },
+        "_id": {
+          "$oid": "673d960d64114b289adc9804"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:55:57.946Z"
+        },
+        "_id": {
+          "$oid": "673d960d64114b289adc9815"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "description",
+        "oldData": "Borong pedagang kaos",
+        "newData": "Santunan Dhuafa (Pak Kasman)",
+        "date": {
+          "$date": "2024-11-20T07:58:07.788Z"
+        },
+        "_id": {
+          "$oid": "673d968f64114b289adc983e"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T01:40:34.909Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T07:58:07.788Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ab858fa94ebbbc807aa2b"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "3/BIAYA_PELATIHAN_AMIL/XI/2024",
+    "totalAmount": 500000,
+    "amountSource": "amil",
+    "description": "biaya akomodasi workshop MUI Jabar kang topan ",
+    "program": "biaya_pelatihan_amil",
+    "mustahik": "amil",
+    "payTo": "DSN MUI Perwakilan Jabar",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "6600010048 Bank Muamalat DSN MUI Perwakilan Jabar",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-18T03:45:28.900Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T03:45:28.900Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673adaf93be8eb9d5a4e53ce"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "26/DAKWAH/XI/2024",
+    "totalAmount": 600000,
+    "amountSource": "sedekah",
+    "description": "[SAHAL SUMEDANG] Pembelian Iqra untuk Sebar Wakaf Iqra",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "Ria Muliyawati",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "0122692094100/BJB/Ria Muliyawati",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:26:33.387Z"
+        },
+        "_id": {
+          "$oid": "673ade193be8eb9d5a4e5488"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:26:34.690Z"
+        },
+        "_id": {
+          "$oid": "673ade1a3be8eb9d5a4e549d"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T06:13:13.043Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T06:26:34.690Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673adb4b3be8eb9d5a4e53d7"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "15/PENDIDIKAN/XI/2024",
+    "totalAmount": 50000,
+    "amountSource": "sedekah",
+    "description": "[SAHAL SUMEDANG] Santunan Beasiswa Anak Yatim (KA)",
+    "program": "pendidikan",
+    "mustahik": "fisabilillah",
+    "payTo": "Ria Muliyawati",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "0122692094100/BJB/Ria Muliyawati",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:26:30.499Z"
+        },
+        "_id": {
+          "$oid": "673ade163be8eb9d5a4e5461"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:26:31.746Z"
+        },
+        "_id": {
+          "$oid": "673ade173be8eb9d5a4e5474"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T06:14:35.102Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T06:26:31.746Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673addfc3be8eb9d5a4e541d"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "27/DAKWAH/XI/2024",
+    "totalAmount": 10000000,
+    "amountSource": "dskl",
+    "description": "Pelunasanan Pembelian Kusen Alumunium Jendela & Kaca Ribela untuk Masjid Al Hilal Cibiru",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "Kharisma Interindo",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "7750449683/BCA/DWI WIYONO",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:26:27.976Z"
+        },
+        "_id": {
+          "$oid": "673ade133be8eb9d5a4e543e"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:26:29.253Z"
+        },
+        "_id": {
+          "$oid": "673ade153be8eb9d5a4e544f"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T06:26:04.595Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T06:26:29.253Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673adfd43be8eb9d5a4e54cf"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "3/KESEHATAN/XI/2024",
+    "totalAmount": 500000,
+    "amountSource": "sedekah",
+    "description": "[SAHAL PANGANDARAN] Bantuan Biaya Pengobatan Guru Ngaji",
+    "program": "kesehatan",
+    "mustahik": "fisabilillah",
+    "payTo": "SURYONO",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "401001000125530/BRI/SURYONO",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:42:07.841Z"
+        },
+        "_id": {
+          "$oid": "673ae1bf3be8eb9d5a4e5509"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:42:09.069Z"
+        },
+        "_id": {
+          "$oid": "673ae1c13be8eb9d5a4e551e"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T06:33:56.177Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T06:42:09.070Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ae1503be8eb9d5a4e54d8"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "21/SOSIAL/XI/2024",
+    "totalAmount": 2300000,
+    "amountSource": "sedekah",
+    "description": "[MTA CICENDO 1] Jumat Berkah : 1) Santunan Anak Yartim = 20 orang x Rp 66.500 = Rp 1.330 000 ; 2) Sembako untuk Dhuafa = 10 orang x Rp 50.000 = Rp 500.000 ;  3) Berbagi snack untuk jamaah = 150 pcs x Rp 1.800 = Rp 270.000 ; 4) Santunan Kematian = Rp 200.000\n",
+    "program": "sosial",
+    "mustahik": "miskin",
+    "payTo": "Eti Rosmayati",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "399701000827503/BRI/Eti Rosmayati",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:42:10.250Z"
+        },
+        "_id": {
+          "$oid": "673ae1c23be8eb9d5a4e5534"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T06:42:11.435Z"
+        },
+        "_id": {
+          "$oid": "673ae1c33be8eb9d5a4e554b"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T06:40:16.200Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T06:42:11.435Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ae68d3be8eb9d5a4e55b6"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "5/BIAYA_SYIAR/XI/2024",
+    "totalAmount": 8783800,
+    "amountSource": "amil",
+    "description": "Biaya kirim kalender 997 pcs ",
+    "program": "biaya_syiar",
+    "mustahik": "lainnya",
+    "payTo": "jasa pengiriman ",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "2332576080 BCA Martiansyah Amanda",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-18T07:02:37.835Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T07:02:37.835Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ae9a33be8eb9d5a4e55e5"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "28/DAKWAH/XI/2024",
+    "totalAmount": 1000000,
+    "amountSource": "sedekah",
+    "description": "Uzroh Pembina MTA (November) : 1) Ust. Iqbal = Rp 500.000 ; 2) Ust. Ridwan = Rp 250.000 ; 3) Ust. Safina = Rp 250.000",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "Ust. Iqbal, Ust. Ridwan, Ust. Safina",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "060001005890535/BRI/Muhammad Iqbal ; 1320029010296/Mandiri/M RIDWAN ABDUL AZIZ ; 7029242717/BSI/Safinatul Choeriyah",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T07:19:03.206Z"
+        },
+        "_id": {
+          "$oid": "673aea673be8eb9d5a4e5630"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T07:19:04.023Z"
+        },
+        "_id": {
+          "$oid": "673aea683be8eb9d5a4e563f"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "paymentCredentials",
+        "oldData": "060001005890535/BRI/Muhammad Iqbal ; 1320029010296/Mandiri/M RIDWAN ABDUL AZIZ ; 7029242717/BSI/Safi",
+        "newData": "060001005890535/BRI/Muhammad Iqbal ; 1320029010296/Mandiri/M RIDWAN ABDUL AZIZ ; 7029242717/BSI/Safinatul Choeriyah",
+        "date": {
+          "$date": "2024-11-18T07:30:40.369Z"
+        },
+        "_id": {
+          "$oid": "673aed2066369747858a14f3"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T07:15:47.304Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T07:30:40.371Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673aeb303be8eb9d5a4e5685"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "11/OPERASIONAL_KANTOR/XI/2024",
+    "totalAmount": 256000,
+    "amountSource": "amil",
+    "description": "Pembelian Air minum untuk persedian di kantor ",
+    "program": "operasional_kantor",
+    "mustahik": "lainnya",
+    "payTo": "PT Muawanah Al Masoem ",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "2833780999 BCA PT Muawanah Al Masoem ",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-18T07:22:24.471Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T07:22:24.471Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673af10a66369747858a1545"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "29/DAKWAH/XI/2024",
+    "totalAmount": 679190000,
+    "amountSource": "dskl",
+    "description": "Pembelian Al Quran, Buku Islam, dan Iqra (No. Faktur 00027247 dan 00000098)",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "Penerbit Jabal",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1310006104295/Mandiri/HENDRA SETIAWAN",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:15:36.992Z"
+        },
+        "_id": {
+          "$oid": "673d8c9864114b289adc93c3"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:15:38.298Z"
+        },
+        "_id": {
+          "$oid": "673d8c9a64114b289adc93de"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T07:47:22.307Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T07:15:38.299Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673afa2c66369747858a1585"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "22/SOSIAL/XI/2024",
+    "totalAmount": 1140000,
+    "amountSource": "sedekah",
+    "description": "Sedekah Makan Santri Ponpes Nurul Mu'min - Garut : 2 karung beras dan 1 krat telur",
+    "program": "sosial",
+    "mustahik": "fisabilillah",
+    "payTo": "Rekening Kegiatan",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320017463119/Mandiri/Al-Hilal Rancapanggung",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T08:28:17.943Z"
+        },
+        "_id": {
+          "$oid": "673afaa166369747858a15dd"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-18T08:28:19.103Z"
+        },
+        "_id": {
+          "$oid": "673afaa366369747858a15f7"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-18T08:26:20.163Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T08:28:19.103Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673b3e3c66369747858a177a"
+    },
+    "employee": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "ppdNumber": "3/OPERASIONAL_TUGAS_AMIL/XI/2024",
+    "totalAmount": 500000,
+    "amountSource": "amil",
+    "description": "Menghadiri Undangan Forum Zakat Internasional BAZNAS ",
+    "program": "operasional_tugas_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening Hanapi ",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320022671052 Mandiri Hanapi Herdiansyah ",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "lainnya",
+    "createdAtObj": {
+      "day": 18,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-18T13:16:44.386Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-18T13:16:44.386Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673bf50f66369747858a17ee"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "23/SOSIAL/XI/2024",
+    "totalAmount": 100000,
+    "amountSource": "sedekah",
+    "description": "[SAHAL CICALENGKA] Santunan Anak Yatim & Dhuafa",
+    "program": "sosial",
+    "mustahik": "miskin",
+    "payTo": "Nala Siti Patonah",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "377301050536536/BRI/Nala Siti Patonah",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T02:18:28.127Z"
+        },
+        "_id": {
+          "$oid": "673bf57466369747858a181c"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T02:18:29.673Z"
+        },
+        "_id": {
+          "$oid": "673bf57566369747858a1834"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-19T02:16:47.185Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T02:18:29.673Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673c056466369747858a1899"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddc2"
+    },
+    "ppdNumber": "12/OPERASIONAL_KANTOR/XI/2024",
+    "totalAmount": 24000,
+    "amountSource": "amil",
+    "description": "Pembelian galon air minum di kantor Al Hilal 37 ",
+    "program": "operasional_kantor",
+    "mustahik": "amil",
+    "payTo": "Transfer/BCA/Imelda",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "8000345351 / BCA / Imelda ",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T03:34:43.105Z"
+        },
+        "_id": {
+          "$oid": "673c075366369747858a18c7"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T03:34:44.746Z"
+        },
+        "_id": {
+          "$oid": "673c075466369747858a18da"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-19T03:26:28.431Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T03:34:45.238Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673c09fd66369747858a191b"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddb6"
+    },
+    "ppdNumber": "1/MAINTENANCE_APLIKASI/XI/2024",
+    "totalAmount": 246427,
+    "amountSource": "amil",
+    "program": "maintenance_aplikasi",
+    "mustahik": "lainnya",
+    "payTo": "downnotifier",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddaa"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "5062 6758 7783 / Bank Jago / Muhammad Reksa Pasha Nizahiksan",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T03:49:29.021Z"
+        },
+        "_id": {
+          "$oid": "673c0ac966369747858a19b7"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "description",
+        "newData": "",
+        "date": {
+          "$date": "2024-11-19T03:49:29.122Z"
+        },
+        "_id": {
+          "$oid": "673c0ac966369747858a19be"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T03:49:30.616Z"
+        },
+        "_id": {
+          "$oid": "673c0aca66369747858a19cf"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-19T03:46:05.599Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T03:49:30.732Z"
+    },
+    "__v": 0,
+    "description": ""
+  },
+  {
+    "_id": {
+      "$oid": "673c0a4b66369747858a1928"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76dde0"
+    },
+    "ppdNumber": "13/OPERASIONAL_KANTOR/XI/2024",
+    "totalAmount": 101000,
+    "amountSource": "amil",
+    "description": "Pembelian pulsa untuk masa aktif nomor Markom \nPulsa: 100.000",
+    "program": "operasional_kantor",
+    "mustahik": "amil",
+    "payTo": "Virtual Akun BSI ",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "paymentMethod": "lainnya",
+    "paymentCredentials": "2987000000544739 / VA BSI ",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T03:50:50.547Z"
+        },
+        "_id": {
+          "$oid": "673c0b1a66369747858a1a3d"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T03:50:52.957Z"
+        },
+        "_id": {
+          "$oid": "673c0b1c66369747858a1a56"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-19T03:47:23.448Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T03:50:52.957Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673c0eef66369747858a1ac2"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddc2"
+    },
+    "ppdNumber": "14/OPERASIONAL_KANTOR/XI/2024",
+    "totalAmount": 100500,
+    "amountSource": "amil",
+    "description": "Pembelian pulsa 100.000 hp markom untuk perpanjangan kartu ",
+    "program": "operasional_kantor",
+    "mustahik": "amil",
+    "payTo": "Tokopedia / VA ",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddad"
+    },
+    "paymentMethod": "virtual_account",
+    "paymentCredentials": "600085711513115 / VA BSI ",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-19T04:07:11.016Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T04:07:11.016Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673c143d66369747858a1aec"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfe"
+    },
+    "ppdNumber": "6/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 424000,
+    "amountSource": "amil",
+    "description": " sewa gor 200k\nshuttlecock 14kx 4 cock =56k/visit x 4 = 224\ntotalnya 424k",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "BANK MANDIRI",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76dde9"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1340023061251 | MANDIRI | DESI KURNIASARI",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-19T04:29:49.506Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T04:29:49.506Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673c2c6e66369747858a1b0f"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddc5"
+    },
+    "ppdNumber": "6/MAINTENANCE_KANTOR/XI/2024",
+    "totalAmount": 880,
+    "amountSource": "amil",
+    "description": "Bahan Bangunan Renov Rumah Sersan 19 November 2024",
+    "program": "maintenance_kantor",
+    "mustahik": "amil",
+    "payTo": "TB. Berkah Jaya",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "2333133334/BCA/Wawan Hockiawan S IP",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T06:15:34.114Z"
+        },
+        "_id": {
+          "$oid": "673c2d0666369747858a1b4a"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T06:15:35.427Z"
+        },
+        "_id": {
+          "$oid": "673c2d0766369747858a1b5f"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-19T06:13:02.712Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T06:15:35.539Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673c306266369747858a1b8c"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "24/SOSIAL/XI/2024",
+    "totalAmount": 1250000,
+    "amountSource": "sedekah",
+    "description": "Pembelian 50 bibit pohon alpukat untuk Tanah Pesantren Al Hilal",
+    "program": "sosial",
+    "mustahik": "fisabilillah",
+    "payTo": "Nurlina",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "416101098919534/BRI/Nurlina",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 19,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T06:32:51.077Z"
+        },
+        "_id": {
+          "$oid": "673c311366369747858a1bc6"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-19T06:32:52.153Z"
+        },
+        "_id": {
+          "$oid": "673c311466369747858a1bdb"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-19T06:29:54.577Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-19T06:32:52.275Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d39bb66369747858a1c6d"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddb6"
+    },
+    "ppdNumber": "2/MAINTENANCE_APLIKASI/XI/2024",
+    "totalAmount": 666012,
+    "amountSource": "aqiqah",
+    "description": "perpanjang domain aqiqahalhilal.com 3 tahun",
+    "program": "maintenance_aplikasi",
+    "mustahik": "lainnya",
+    "payTo": "qwords",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf5"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320022669908 / MANDIRI / ZULFIKAR",
+    "acceptedByManager": false,
+    "acceptedByDirector": false,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [],
+    "createdAt": {
+      "$date": "2024-11-20T01:22:03.602Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T01:22:03.602Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d3ca366369747858a1d5b"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "30/DAKWAH/XI/2024",
+    "totalAmount": 20000000,
+    "amountSource": "dskl",
+    "description": "Operasional Pembangunan Masjid Al Hilal Cibiru",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "Kas Pembangunan Masjid Al Hilal Cibiru",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320009119919/Mandiri/Kas Pembangunan Masjid Al Hilal Cibiru",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T01:34:50.050Z"
+        },
+        "_id": {
+          "$oid": "673d3cba66369747858a1d85"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T01:34:51.349Z"
+        },
+        "_id": {
+          "$oid": "673d3cbb66369747858a1d9f"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-20T01:34:27.892Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T01:34:51.350Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d4d9966369747858a1dfc"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "31/DAKWAH/XI/2024",
+    "totalAmount": 4000000,
+    "amountSource": "dskl",
+    "description": "Pelunasan Pembelian Daun Pintu & Kusen Masjid Al Hilal Cibiru",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "PD Mahkota Kayu",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "9000012448602/Mandiri/Suyoto",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T02:47:05.394Z"
+        },
+        "_id": {
+          "$oid": "673d4da966369747858a1e20"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T02:47:07.131Z"
+        },
+        "_id": {
+          "$oid": "673d4dab66369747858a1e3a"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": true,
+        "newData": false,
+        "date": {
+          "$date": "2024-11-20T02:48:29.764Z"
+        },
+        "_id": {
+          "$oid": "673d4dfd66369747858a1ed0"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T02:48:30.958Z"
+        },
+        "_id": {
+          "$oid": "673d4dfe66369747858a1ef1"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-20T02:46:49.678Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T02:48:31.041Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d652866369747858a1f7e"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "12/EKONOMI/XI/2024",
+    "totalAmount": 105000,
+    "amountSource": "sedekah",
+    "description": "Snack Sosialisasi PEU Kec. Sukasari (21-11-2024) : 15 box x Rp 7.000",
+    "program": "ekonomi",
+    "mustahik": "fisabilillah",
+    "payTo": "PUTRI ANNA FITRIYA",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "2330821097/BCA/PUTRI ANNA FITRIYA",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "description",
+        "oldData": "Konsumsi Sosialisasi PEU Kec. Sukasari (21-11-2024) : 15 box x Rp 7.000",
+        "newData": "Snack Sosialisasi PEU Kec. Sukasari (21-11-2024) : 15 box x Rp 7.000",
+        "date": {
+          "$date": "2024-11-20T06:13:12.389Z"
+        },
+        "_id": {
+          "$oid": "673d7df866369747858a1fce"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T06:17:07.133Z"
+        },
+        "_id": {
+          "$oid": "673d7ee366369747858a205f"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T06:17:08.414Z"
+        },
+        "_id": {
+          "$oid": "673d7ee466369747858a207b"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-20T04:27:20.752Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T06:17:08.414Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d7d5f66369747858a1f95"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "16/PENDIDIKAN/XI/2024",
+    "totalAmount": 2449000,
+    "amountSource": "sedekah",
+    "description": "Pembelian Perlengkapan Sekolah (Giffi)",
+    "program": "pendidikan",
+    "mustahik": "fisabilillah",
+    "payTo": "Mumtaza Roftine",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1227861727/BNI/TRI HIDAYAT",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T06:17:09.761Z"
+        },
+        "_id": {
+          "$oid": "673d7ee566369747858a2097"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T06:17:10.915Z"
+        },
+        "_id": {
+          "$oid": "673d7ee666369747858a20b3"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-20T06:10:39.251Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T06:17:10.919Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d817e66369747858a20e6"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "25/SOSIAL/XI/2024",
+    "totalAmount": 1000000,
+    "amountSource": "wakaf_sumur",
+    "description": "Fee Pengawas Pembangunan Sumur Bor Ponpes Darul Azkia - Garut",
+    "program": "sosial",
+    "mustahik": "fisabilillah",
+    "payTo": "Agus Suherman",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1770007859454/Mandiri/Agus Suherman",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T06:41:50.713Z"
+        },
+        "_id": {
+          "$oid": "673d84ae64114b289adc91c8"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T06:41:53.645Z"
+        },
+        "_id": {
+          "$oid": "673d84b164114b289adc91e4"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "amountSource",
+        "oldData": "dskl",
+        "newData": "wakaf_sumur",
+        "date": {
+          "$date": "2024-11-20T06:42:02.260Z"
+        },
+        "_id": {
+          "$oid": "673d84ba64114b289adc9210"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-20T06:28:14.800Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T06:42:02.261Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d908764114b289adc94bd"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "32/DAKWAH/XI/2024",
+    "totalAmount": 28308000,
+    "amountSource": "dskl",
+    "description": "Biaya Kirim Quran ke Manokwari Resi PPD-SUB-104503",
+    "program": "dakwah",
+    "mustahik": "fisabilillah",
+    "payTo": "PT Papandayan Nusantara Perkasa",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "2742744010/BCA/Papandayan Nusantara Perkasa",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:32:34.130Z"
+        },
+        "_id": {
+          "$oid": "673d909264114b289adc94ed"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:32:35.231Z"
+        },
+        "_id": {
+          "$oid": "673d909364114b289adc950c"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-20T07:32:23.329Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T07:32:35.231Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673d917764114b289adc9534"
+    },
+    "employee": {
+      "$oid": "67078bc245ac07e49d76ddaa"
+    },
+    "ppdNumber": "3/LAINNYA/XI/2024",
+    "totalAmount": 600000,
+    "amountSource": "amil",
+    "description": "Pembuatan Kaos utk Tim SWQ Papua",
+    "program": "lainnya",
+    "mustahik": "lainnya",
+    "payTo": "Custom TShirt Bandung",
+    "approvedBy": {
+      "$oid": "67078bc245ac07e49d76ddaa"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "2820326493 / BCA / Asep Subagja",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 20,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "amountSource",
+        "oldData": "dskl",
+        "newData": "amil",
+        "date": {
+          "$date": "2024-11-20T07:39:05.189Z"
+        },
+        "_id": {
+          "$oid": "673d921964114b289adc9597"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:39:07.403Z"
+        },
+        "_id": {
+          "$oid": "673d921b64114b289adc95a4"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-20T07:39:08.569Z"
+        },
+        "_id": {
+          "$oid": "673d921c64114b289adc95bd"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-20T07:36:23.802Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-20T07:39:08.657Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e9e3264114b289adc988e"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "7/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 84660005,
+    "amountSource": "amil",
+    "description": "Bagian amil periode oktober Man WQ",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:47:00.212Z"
+        },
+        "_id": {
+          "$oid": "673e9f2464114b289adc98b8"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:47:04.785Z"
+        },
+        "_id": {
+          "$oid": "673e9f2864114b289adc98cf"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T02:42:58.898Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T02:47:04.786Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e9e6164114b289adc9891"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "8/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 2644688,
+    "amountSource": "zakat",
+    "description": "Bagian amil periode oktober Man Zakat",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:47:39.600Z"
+        },
+        "_id": {
+          "$oid": "673e9f4b64114b289adc9908"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:47:41.033Z"
+        },
+        "_id": {
+          "$oid": "673e9f4d64114b289adc9921"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T02:43:45.702Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T02:47:41.034Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e9e9664114b289adc9894"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "9/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 9020018,
+    "amountSource": "sedekah",
+    "description": "Bagian amil perioode oktober BRI sedekah",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:48:04.921Z"
+        },
+        "_id": {
+          "$oid": "673e9f6464114b289adc995e"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:48:06.843Z"
+        },
+        "_id": {
+          "$oid": "673e9f6664114b289adc9979"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T02:44:38.348Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T02:48:06.844Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e9ebb64114b289adc9897"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "10/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 71168680,
+    "amountSource": "dskl",
+    "description": "Bagian amil periode oktober Man Bawais",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:48:30.901Z"
+        },
+        "_id": {
+          "$oid": "673e9f7e64114b289adc99ba"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:48:32.464Z"
+        },
+        "_id": {
+          "$oid": "673e9f8064114b289adc99d7"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T02:45:15.049Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T02:48:32.465Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e9ee964114b289adc989a"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "11/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 3013364,
+    "amountSource": "zakat",
+    "description": "bagian amil periode okotber BSI Zakat",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:48:57.340Z"
+        },
+        "_id": {
+          "$oid": "673e9f9964114b289adc9a1c"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:48:58.907Z"
+        },
+        "_id": {
+          "$oid": "673e9f9a64114b289adc9a3b"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T02:46:01.076Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T02:48:58.907Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e9f0b64114b289adc989d"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "12/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 14603909,
+    "amountSource": "wakaf_sumur",
+    "description": "bagian amil periode oktober W Sumur",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:49:15.773Z"
+        },
+        "_id": {
+          "$oid": "673e9fab64114b289adc9a84"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T02:49:16.947Z"
+        },
+        "_id": {
+          "$oid": "673e9fac64114b289adc9aa5"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T02:46:35.939Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T02:49:16.947Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ea4db8f6245803f943843"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "13/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 18015936,
+    "amountSource": "sedekah",
+    "description": "bagian amil BCA sedekah",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening Amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening Amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:16:48.082Z"
+        },
+        "_id": {
+          "$oid": "673ea6208f6245803f94388a"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:16:49.790Z"
+        },
+        "_id": {
+          "$oid": "673ea6218f6245803f9438a6"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T03:11:23.456Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T03:16:49.790Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ea5ab8f6245803f943867"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "14/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 4278011,
+    "amountSource": "sedekah",
+    "description": "Bagian amil Muamalat Sedekah",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening Amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:17:20.358Z"
+        },
+        "_id": {
+          "$oid": "673ea6408f6245803f9438e9"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:17:21.940Z"
+        },
+        "_id": {
+          "$oid": "673ea6418f6245803f943907"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T03:14:51.296Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T03:17:21.940Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ea5e38f6245803f94386a"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddfb"
+    },
+    "ppdNumber": "15/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 20882909,
+    "amountSource": "dskl",
+    "description": "Bagian amil WQ Marwah",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Rekening amil",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "Rekening amil",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:17:44.784Z"
+        },
+        "_id": {
+          "$oid": "673ea6588f6245803f94394e"
+        }
+      },
+      {
+        "name": "Asep Nurjaman",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:17:46.134Z"
+        },
+        "_id": {
+          "$oid": "673ea65a8f6245803f94396e"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T03:15:47.452Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T03:17:46.134Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ea65d8f6245803f943999"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "26/SOSIAL/XI/2024",
+    "totalAmount": 1050000,
+    "amountSource": "sedekah",
+    "description": "[SAHAL PANGANDARAN] Jumat Berkah - Berbagi Makanan untuk Jamaah",
+    "program": "sosial",
+    "mustahik": "fisabilillah",
+    "payTo": "SURYONO",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "401001000125530/BRI/SURYONO",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:35:30.980Z"
+        },
+        "_id": {
+          "$oid": "673eaa828f6245803f943a70"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:35:32.152Z"
+        },
+        "_id": {
+          "$oid": "673eaa848f6245803f943a8f"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T03:17:49.596Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T03:35:32.153Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ea6b68f6245803f9439a2"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "27/SOSIAL/XI/2024",
+    "totalAmount": 500000,
+    "amountSource": "sedekah",
+    "description": "[SAHAL TASIK SELATAN] Santunan Dhuafa",
+    "program": "sosial",
+    "mustahik": "miskin",
+    "payTo": "WAHYUDIN",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "lainnya",
+    "paymentCredentials": "437201047612530/BRI/WAHYUDIN",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "program",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:35:28.374Z"
+        },
+        "_id": {
+          "$oid": "673eaa808f6245803f943a35"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:35:29.746Z"
+        },
+        "_id": {
+          "$oid": "673eaa818f6245803f943a52"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T03:19:18.420Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T03:35:29.746Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ea8008f6245803f9439b3"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddef"
+    },
+    "ppdNumber": "16/OPERASIONAL_AMIL/XI/2024",
+    "totalAmount": 500000,
+    "amountSource": "amil",
+    "description": "OP Assessment Kebencanaan ke Gunung Halu",
+    "program": "operasional_amil",
+    "mustahik": "amil",
+    "payTo": "Pesantren Al Hilal Cililin",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddc8"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "1320512021115/Mandiri/Al Hilal Rancapanggung",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "reimbursement",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:35:23.879Z"
+        },
+        "_id": {
+          "$oid": "673eaa7b8f6245803f9439fe"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T03:35:25.549Z"
+        },
+        "_id": {
+          "$oid": "673eaa7d8f6245803f943a19"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T03:24:48.159Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T03:35:25.549Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673ec02b8f6245803f943b61"
+    },
+    "employee": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "ppdNumber": "3/MAINTENANCE_KENDARAAN/XI/2024",
+    "totalAmount": 610000,
+    "amountSource": "amil",
+    "description": "Pembelian Onderdil Mobil Operasional LAZ",
+    "program": "maintenance_kendaraan",
+    "mustahik": "lainnya",
+    "payTo": "Toko Mitra Utama",
+    "approvedBy": {
+      "$oid": "67078bc345ac07e49d76ddf2"
+    },
+    "paymentMethod": "transfer",
+    "paymentCredentials": "0860453037/BCA/Djoni",
+    "acceptedByManager": true,
+    "acceptedByDirector": true,
+    "applicationType": "pembayaran",
+    "createdAtObj": {
+      "day": 21,
+      "month": 11,
+      "year": 2024
+    },
+    "updateHistory": [
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByManager",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T05:08:00.855Z"
+        },
+        "_id": {
+          "$oid": "673ec0308f6245803f943b8a"
+        }
+      },
+      {
+        "name": "Putri Anna",
+        "key": "acceptedByDirector",
+        "oldData": false,
+        "newData": true,
+        "date": {
+          "$date": "2024-11-21T05:08:02.129Z"
+        },
+        "_id": {
+          "$oid": "673ec0328f6245803f943ba9"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-11-21T05:07:55.296Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-21T05:08:02.129Z"
+    },
+    "__v": 0
+  }
+]

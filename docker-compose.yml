@@ -1,0 +1,90 @@
+version: "3.8"
+name: "portfolio"
+services:
+  mongo:
+    image: "mongo:latest"
+    volumes:
+      - portfolio_mongo_data:/data/db
+    ports:
+      - "27001:27017"
+    networks:
+      - node-network
+
+  redis:
+    image: "redis"
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      retries: 3
+      timeout: 5s
+    networks:
+      - node-network
+
+  mailhog:
+    image: "mailhog/mailhog:latest"
+    ports:
+      - "1025:1025"
+      - "8025:8025"
+    networks:
+      - node-network
+
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    env_file:
+      - ./api/.env
+    ports:
+      - "5001:5000"
+    volumes:
+      - ./api:/app #Synchronise docker container with local change
+      - /app/node_modules #Avoid re-copying local node_modules. Cache in volume.
+    depends_on:
+      - mongo
+    networks:
+      - node-network
+
+  admin_dashboard:
+    container_name: portfolio_admin
+    build:
+      context: ./admin
+      dockerfile: Dockerfile
+    env_file:
+      - ./admin/.env.development
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./admin:/app #Synchronise docker container with local change
+      - /app/node_modules #Avoid re-copying local node_modules. Cache in volume.
+      - /app/.next
+    networks:
+      - node-network
+
+  client:
+    container_name: client
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    env_file:
+      - ./client/.env
+    ports:
+      - "3001:3000"
+    volumes:
+      - ./client:/app #Synchronise docker container with local change
+      - /app/node_modules #Avoid re-copying local node_modules. Cache in volume.
+      - /app/.next
+    networks:
+      - node-network
+
+networks:
+  node-network:
+    name: portfolio_network
+
+volumes:
+  portfolio_mongo_data:
+    name: portfolio_mongo_data
+  redis-data:
+    name: portfolio_redis_data

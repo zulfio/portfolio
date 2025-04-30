@@ -1,0 +1,22 @@
+[
+  {
+    "photo": "/light/assets/imgs/resume/s1.png",
+    "title": "UI / UX Design",
+    "persent": "95%"
+  },
+  {
+    "photo": "/light/assets/imgs/resume/s2.png",
+    "title": "Development",
+    "persent": "90%"
+  },
+  {
+    "photo": "/light/assets/imgs/resume/s3.png",
+    "title": "Graphic Design",
+    "persent": "85%"
+  },
+  {
+    "photo": "/light/assets/imgs/resume/s4.png",
+    "title": "WordPress",
+    "persent": "78%"
+  }
+]

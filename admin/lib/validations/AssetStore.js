@@ -1,0 +1,25 @@
+import { z } from "zod";
+
+const Schema = z.object({
+    name: z
+        .string()
+        .min(1, {
+            message: "Name is required",
+        })
+        .max(100),
+    address: z.string().max(1000).optional(),
+    phoneNumber: z.string().max(20).optional(),
+    email: z.union([z.literal(""), z.string().email().max(100)]),
+    officerName: z.string().max(100).optional(),
+    description: z.string().max(1000).optional(),
+    iconURL: z.string().max(1000).optional(),
+});
+
+const DefaultValue = {};
+
+const AssetStoreSchema = {
+    Schema,
+    DefaultValue,
+};
+
+export default AssetStoreSchema;

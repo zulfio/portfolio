@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "66cbed2edeb79b6efbc4c849"
+  },
+  "name": "site_title",
+  "value": "Marwah Wakaf Indonesia",
+  "isPublic": true,
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:33:17.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbed2edeb79b6efbc4c84a"
+  },
+  "name": "site_description",
+  "value": "Your site description 123123",
+  "isPublic": true,
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:33:17.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbed2edeb79b6efbc4c84b"
+  },
+  "name": "user_login_methods",
+  "value": [
+    "password"
+  ],
+  "isPublic": true,
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:33:17.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbed2edeb79b6efbc4c84c"
+  },
+  "name": "admin_login_methods",
+  "value": [
+    "password"
+  ],
+  "isPublic": true,
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:33:17.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d13a2505f789ad983e8d7f"
+  },
+  "name": "site_logo",
+  "value": "2024/10/Logo-Pesantren-Al-Hilal.png",
+  "isPublic": true,
+  "createdAt": {
+    "$date": "2024-08-30T03:19:01.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:33:17.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d13a2505f789ad983e8d80"
+  },
+  "name": "twilio",
+  "value": {
+    "accountSid": "",
+    "authToken": "",
+    "from": ""
+  },
+  "isPublic": false,
+  "createdAt": {
+    "$date": "2024-08-30T03:19:01.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:33:17.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d13a2505f789ad983e8d82"
+  },
+  "name": "email",
+  "value": {
+    "fromName": "admin",
+    "fromEmail": "noreply@alhilal.or.id",
+    "host": "smtp.alhilal.or.id",
+    "port": "587",
+    "security": "none",
+    "withAuth": false,
+    "username": "",
+    "password": ""
+  },
+  "isPublic": false,
+  "createdAt": {
+    "$date": "2024-08-30T03:19:01.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T07:33:17.412Z"
+  },
+  "__v": 0
+}]

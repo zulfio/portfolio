@@ -1,0 +1,32 @@
+[
+  {
+    "photo": "/assets/imgs/works/1.jpg",
+    "title": "GeekFolio Portfolio",
+    "link": "/single-project"
+  },
+  {
+    "photo": "/assets/imgs/works/2.jpg",
+    "title": "Luxury Modern Website",
+    "link": "/single-project"
+  },
+  {
+    "photo": "/assets/imgs/works/3.jpg",
+    "title": "Partiner BPO",
+    "link": "/single-project"
+  },
+  {
+    "photo": "/assets/imgs/works/3.jpg",
+    "title": "Partiner BPO",
+    "link": "/single-project"
+  },
+  {
+    "photo": "/assets/imgs/works/3.jpg",
+    "title": "Partiner BPO",
+    "link": "/single-project"
+  },
+  {
+    "photo": "/assets/imgs/works/4.jpg",
+    "title": "From our gallery",
+    "link": "/single-project"
+  }
+]

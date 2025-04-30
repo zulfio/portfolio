@@ -1,0 +1,64 @@
+fileupload, insert file size & dimensions
+fileupload, saat remove, remve juga data di db dan hapus filenya.
+reusable province, city, dll form
+tambah input asnaf di page tambah pebnerima manfaat. (/dashboard/distribution/beneficiary)
+update form penerima manfaat belum beres
+hapus item di "daftar print qr code"
+remove adminProtect() in every route.use
+translate route dari inggris ke indo
+tiru konsep totalQuery di api. tiru asset route
+require category dan sub category
+validate put/patch requests
+pindahkan onSuccess di usemutation.
+onSuccess: () => queryClient.invalidateQueries({ queryKey: ["assets"] }),
+
+remove adnmiin protect di assetRoutes.use("/:id"
+rubah route admin dan employee ke admin/add, employee/add
+
+validate add / put / delete. contoh:
+export async function reqAddAssetStore(options) {
+    const { success } = await secureFetch(`${API_URL}/api/v1/asset-store`, {
+        cache: "no-store",
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+        },
+        body: JSON.stringify(options),
+    });
+
+    if (!success) {
+        throw new Error("failed to add asset store");
+    }
+}
+
+rubah struktur ROUTES.js. asset.detail asset.edit etc
+implement usequery di site options
+implement try catch di usemutation
+implement usequery di filemanager
+translate inggris ke indo
+tiru employee put/update validator
+rubah routes admin. dari add-admin le admin/add, etc
+pindahkan menu karyawan kedalam grup kelola asset
+change camelcase to snake case
+use with preview filemanager
+modify collection field. change url into mongo id
+feat: workplaces
+saat hapus data (kategori, merk, dll) cek apakah ada data yg menggunakan tada tersebut. kasi notif. ex: "terdapat asset dengan merk ini, yakin hapus?"
+rename from add to create. (route / controller / etc)
+fix media size, type, etc
+
+
+menu baru:
+departemen
+- yayasan
+
+jabatan
+- svp
+- ketua
+- bendahara
+- sekretaris
+- pembina
+- pengawas
+
+
+dynamic division, (name, color, etc)

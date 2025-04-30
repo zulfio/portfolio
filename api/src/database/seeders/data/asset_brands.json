@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "66f27306b85107cae1cb87b8"
+  },
+  "name": "Sony",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:06:30.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:06:30.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2730ab85107cae1cb87bf"
+  },
+  "name": "Asus",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:06:34.031Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:06:34.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f27317b85107cae1cb8812"
+  },
+  "name": "Intel",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:06:47.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:06:47.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f27326b85107cae1cb8819"
+  },
+  "name": "Poco",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:07:02.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T09:11:16.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f27329b85107cae1cb8820"
+  },
+  "name": "Xiaomi",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:07:05.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:07:05.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2732cb85107cae1cb8827"
+  },
+  "name": "Dell",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:07:08.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:07:08.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fb4e0adf876e1240199daa"
+  },
+  "name": "Apple",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-01T01:19:06.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T01:19:06.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fb4e15df876e1240199dae"
+  },
+  "name": "Samsung",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-01T01:19:17.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T01:19:17.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fb50ae40ea1d902d02990f"
+  },
+  "name": "Tencent",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-01T01:30:22.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T01:30:22.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fb50b540ea1d902d029916"
+  },
+  "name": "Hitachi",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-01T01:30:29.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T01:30:29.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fcb7a40353cf86e49a72fa"
+  },
+  "name": "Gigabyte",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-02T03:01:56.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T03:01:56.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670786e160f88002fff5daa2"
+  },
+  "name": "-",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-10T07:48:49.474Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T07:48:49.474Z"
+  },
+  "__v": 0
+}]

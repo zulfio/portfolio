@@ -1,0 +1,57 @@
+.preview .item {
+  position: relative;
+  background: #1d1d1d;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  padding: 100px 50px;
+}
+
+.preview .item .selected {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 15px 30px;
+  border-radius: 0 0 15px 15px;
+  background: #fff;
+  color: #1d1d1d;
+  width: auto;
+}
+
+.preview .item:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background: linear-gradient(
+    130deg,
+    rgba(255, 255, 255, 0.3),
+    rgba(255, 255, 255, 0.05)
+  );
+  border-radius: 30px;
+  opacity: 0.25;
+}
+
+.preview .img {
+  padding: 40px;
+  position: relative;
+  z-index: 3;
+}
+
+.preview .img .screen {
+  border: 1px solid #aaa;
+  border-radius: 15px 15px 0 0;
+  border-bottom: 0;
+  overflow: hidden;
+}
+
+.preview .img .botm {
+  width: calc(100% + 80px);
+  margin-left: -40px;
+  height: 30px;
+  border: 1px solid #aaa;
+  border-radius: 0 0 100px 100px;
+}

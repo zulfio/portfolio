@@ -1,0 +1,32 @@
+[
+  {
+    "photo": "/light/assets/imgs/works/1.jpg",
+    "title": "GeekFolio Portfolio",
+    "link": "/l-single-project"
+  },
+  {
+    "photo": "/light/assets/imgs/works/2.jpg",
+    "title": "Luxury Modern Website",
+    "link": "/l-single-project"
+  },
+  {
+    "photo": "/light/assets/imgs/works/1.jpg",
+    "title": "GeekFolio Portfolio",
+    "link": "/l-single-project"
+  },
+  {
+    "photo": "/light/assets/imgs/works/2.jpg",
+    "title": "Luxury Modern Website",
+    "link": "/l-single-project"
+  },
+  {
+    "photo": "/light/assets/imgs/works/2.jpg",
+    "title": "Luxury Modern Website",
+    "link": "/l-single-project"
+  },
+  {
+    "photo": "/light/assets/imgs/works/4.jpg",
+    "title": "From our gallery",
+    "link": "/l-single-project"
+  }
+]

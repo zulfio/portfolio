@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66cbed2edeb79b6efbc4c841"
+  },
+  "name": "Zulfikar Ahmad",
+  "email": "zulfikar@gmail.com",
+  "phoneNumber": "082118358997",
+  "role": {
+    "$oid": "65e542bb50ba32e99990a29b"
+  },
+  "password": "$argon2id$v=19$m=65536,t=2,p=1$vy9DXjpVs++gXYzJv/qSRR6xgKgYN+hEWT6Cge3ovaY$ZbERl2PF5SLxoi4n0j3vNcZQD0syp8gy0czDy4Gbn9c",
+  "changePasswordAt": {
+    "$date": "2024-09-24T07:57:41.915Z"
+  },
+  "failedLoginAttempts": 0,
+  "lockUntil": null,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-26T02:49:18.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:00:35.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eb9aa30317c744e0014e07"
+  },
+  "name": "Asep Nurjaman",
+  "email": "asep@gmail.com",
+  "phoneNumber": "08212312313",
+  "role": {
+    "$oid": "65e542bb50ba32e99990a29b"
+  },
+  "password": "$argon2id$v=19$m=65536,t=2,p=1$vy9DXjpVs++gXYzJv/qSRR6xgKgYN+hEWT6Cge3ovaY$ZbERl2PF5SLxoi4n0j3vNcZQD0syp8gy0czDy4Gbn9c",
+  "failedLoginAttempts": 3,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-09-19T03:29:39.301Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T08:50:17.963Z"
+  },
+  "__v": 0,
+  "changePasswordAt": {
+    "$date": "2024-10-09T07:24:21.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732b20167b65af93d85f6a2"
+  },
+  "name": "Putri Anna",
+  "email": "putri@gmail.com",
+  "phoneNumber": "082118358999",
+  "role": {
+    "$oid": "65e542bb50ba32e99990a29b"
+  },
+  "password": "$argon2id$v=19$m=65536,t=2,p=1$18tPE5fwj9etJ1+KyLkjoaWpzlIykPewWjtmha7Ypb0$bF8sw1/Nba3CoBdVx9627t7QCcNSyCM4CXcbuU0X4yU",
+  "failedLoginAttempts": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-11-12T01:40:17.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T01:40:17.133Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,10 @@
+/* Brands
+-----------------------------------------------------------------*/
+.clients-carso .img {
+  margin: auto;
+  opacity: .7;
+}
+
+.clients-carso .img:hover {
+  opacity: 1;
+}

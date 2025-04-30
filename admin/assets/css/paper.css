@@ -1,0 +1,167 @@
+@page {
+    margin: 0;
+}
+
+.print {
+    margin: 0;
+}
+
+.print.sheet {
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    page-break-after: always;
+}
+
+/** Paper sizes **/
+.A3 .sheet {
+    width: 297mm;
+    height: 419mm;
+}
+
+.A3.landscape .sheet {
+    width: 420mm;
+    height: 296mm;
+}
+
+.A4 .sheet {
+    width: 210mm;
+    height: 296mm;
+}
+
+.A4.landscape .sheet {
+    width: 297mm;
+    height: 209mm;
+}
+
+.A5 .sheet {
+    width: 148mm;
+    height: 209mm;
+}
+
+.A5.landscape .sheet {
+    width: 210mm;
+    height: 147mm;
+}
+
+/** Padding area **/
+.sheet.padding-10mm {
+    padding: 5mm;
+}
+
+.sheet.padding-15mm {
+    padding: 15mm;
+}
+
+.sheet.padding-20mm {
+    padding: 20mm;
+}
+
+.sheet.padding-25mm {
+    padding: 25mm;
+}
+
+/** For screen preview **/
+@media screen {
+    .print {
+        background: #eee;
+    }
+
+    .print .sheet {
+        background: white;
+        box-shadow: 0 0.5mm 2mm rgba(0, 0, 0, 0.3);
+    }
+}
+
+/** Fix for Chrome issue #273306 **/
+@media print {
+    .A3.landscape {
+        width: 420mm;
+    }
+
+    .A3,
+    .A4.landscape {
+        width: 297mm;
+    }
+
+    .A4,
+    .A5.landscape {
+        width: 210mm;
+    }
+
+    .A5 {
+        width: 148mm;
+    }
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.print .border {
+    border: 1px solid #333;
+    padding: 0.5rem;
+}
+
+.print .header {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.print .header img {
+    max-width: 100px;
+}
+
+.print tr td {
+    @apply text-sm;
+}
+
+.print .header h1 {
+    padding: 1rem;
+    font-size: 16px;
+    border: 1px solid #333;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.print .header P {
+    padding: 6px;
+    border: 1px solid #333;
+}
+
+.print table {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.print table,
+.print td {
+    border: 1px solid #333;
+    border-collapse: collapse;
+    padding: 6px;
+    table-layout: fixed;
+}
+
+.print textarea {
+    border: none;
+    font-size: 16px;
+}
+
+.print .text-center {
+    text-align: center;
+}
+
+.print .tanda-tangan {
+    height: 80px;
+}
+
+/* paper size a6 */
+.A6 .sheet {
+    width: 105mm;
+    height: 148mm;
+}

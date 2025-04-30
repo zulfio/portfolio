@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "66f27338b85107cae1cb883c"
+  },
+  "name": "Tokopedia",
+  "address": "",
+  "phoneNumber": "",
+  "email": "",
+  "officerName": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:07:20.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:07:20.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2733bb85107cae1cb8844"
+  },
+  "name": "Shopee",
+  "address": "",
+  "phoneNumber": "",
+  "email": "",
+  "officerName": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:07:23.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:07:23.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2735eb85107cae1cb884c"
+  },
+  "name": "Point99 Computer",
+  "address": "",
+  "phoneNumber": "",
+  "email": "",
+  "officerName": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:07:58.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:07:58.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f27364b85107cae1cb8854"
+  },
+  "name": "Nano Komputer",
+  "address": "",
+  "phoneNumber": "",
+  "email": "",
+  "officerName": "",
+  "createdAt": {
+    "$date": "2024-09-24T08:08:04.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:08:04.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c8ee73131667a72bf9bdd"
+  },
+  "name": "-",
+  "address": "-",
+  "phoneNumber": "",
+  "email": "",
+  "officerName": "",
+  "createdAt": {
+    "$date": "2024-10-14T03:24:23.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-14T03:24:23.877Z"
+  },
+  "__v": 0
+}]

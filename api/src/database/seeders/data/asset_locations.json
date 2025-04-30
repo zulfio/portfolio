@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "66f27378b85107cae1cb88b5"
+  },
+  "name": "Kantor 155a",
+  "description": "jl gegerkalong hilir no a55a, bla bla bla bla",
+  "createdAt": {
+    "$date": "2024-09-24T08:08:24.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:09:12.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2737db85107cae1cb88bc"
+  },
+  "name": "Kantor 37",
+  "description": "jl. sarikaso bla bla bla",
+  "createdAt": {
+    "$date": "2024-09-24T08:08:29.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:08:50.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f27389b85107cae1cb88c3"
+  },
+  "name": "Pesantren Cililin",
+  "description": "jl. cililin bla bla bla",
+  "createdAt": {
+    "$date": "2024-09-24T08:08:41.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T08:08:41.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708c5d53131667a72bf9a3f"
+  },
+  "name": "Pesantren Cibiru",
+  "description": "Al Hilal Cibiru",
+  "createdAt": {
+    "$date": "2024-10-11T06:29:41.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T03:17:24.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f306637c81dcc5d5d5d65"
+  },
+  "name": "Kantor Cibiru",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-10-16T03:17:58.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T08:41:11.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6724941ad69b210aa57ebdbe"
+  },
+  "name": "Bawais",
+  "description": "",
+  "createdAt": {
+    "$date": "2024-11-01T08:40:58.312Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-01T08:40:58.312Z"
+  },
+  "__v": 0
+}]
