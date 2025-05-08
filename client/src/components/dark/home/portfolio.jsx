@@ -7,30 +7,11 @@ function Portfolio() {
       <div className="sec-head mb-30">
         <div className="row">
           <div className="col-lg-6">
-            <h6 className="sub-title opacity-7 mb-15">Our Portfolio</h6>
+            <h6 className="sub-title opacity-7 mb-15">My Portfolio</h6>
             <h3>
-              Look at my work & <br /> give us{' '}
-              <span className="main-color">your feedback</span>
+              Look at my {' '}
+              <span className="main-color">Work</span>
             </h3>
-          </div>
-          <div className="col-lg-6 valign">
-            <div className="go-more full-width d-flex justify-content-end">
-              <a href="/works" className="d-flex">
-                <span>
-                  View All Works{' '}
-                  <svg
-                    className="arrow-right"
-                    xmlns="http://www.w3.org/2000/svg"
-                    xmlnsXlink="http://www.w3.org/1999/xlink"
-                    x="0px"
-                    y="0px"
-                    viewBox="0 0 34.2 32.3"
-                    xmlSpace="preserve"
-                    style={{ strokeWidth: 2 }}
-                  />
-                </span>
-              </a>
-            </div>
           </div>
         </div>
       </div>

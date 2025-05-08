@@ -12,7 +12,7 @@ import Navbar from '../../components/dark/home/navbar';
 import Portfolio from '../../components/dark/home/portfolio';
 import Price from '../../components/dark/home/price';
 import Profile from '../../components/dark/home/profile';
-import Services from '../../components/dark/home/services';
+import About from '../../components/dark/home/about';
 import Skills from '../../components/dark/home/skills';
 import Testimonials from '../../components/dark/home/testimonials';
 import Lines from '../../components/Common/Lines';
@@ -20,7 +20,7 @@ function HomeDark() {
   return (
     <div>
       <Helmet>
-        <title>Gavi - Dark</title>
+        <title>Talal Agha</title>
         <link rel="icon" href="/assets/imgs/favicon.ico" />
         <link rel="shortcut icon" href="/assets/imgs/favicon.ico" />
         <link rel="stylesheet" type="text/css" href="/assets/css/plugins.css" />
@@ -29,24 +29,24 @@ function HomeDark() {
       <Cursor />
       <ContactUs />
       <Lines />
-      <LoadingScreen />
+      {/* <LoadingScreen /> */}
       <ProgressScroll />
       <div>
-        <NavTop />
+        {/* <NavTop /> */}
         <main className="container">
           <Profile />
           <Navbar />
           <section className="in-box">
-            <Services />
+            <About />
             <Skills />
             <Portfolio />
-            <Testimonials />
-            <Price />
+            {/* <Testimonials /> */}
+            {/* <Price /> */}
             <Info />
-            <Blog />
+            {/* <Blog /> */}
           </section>
         </main>
-        <Footer />
+        {/* <Footer /> */}
       </div>
       <script
         src="/assets/js/jquery-3.6.0.min.js"

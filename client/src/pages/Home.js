@@ -21,7 +21,7 @@ function Home() {
       <Cursor />
 
       <Lines />
-      <LoadingScreen />
+      {/* <LoadingScreen /> */}
       <ProgressScroll />
       <div>
         <Navbar />

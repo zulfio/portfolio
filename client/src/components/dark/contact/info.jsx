@@ -7,38 +7,15 @@ function Info() {
         <div className="col-lg-5">
           <div className="sec-head md-mb80 wow fadeIn">
             <h6 className="sub-title mb-15 opacity-7">Get In Touch</h6>
-            <h2 className="fz-50">Let is make your brand brilliant!</h2>
-            <p className="fz-15 mt-10">
-              If you would like to work with us or just want to get in touch,
-              we’d love to hear from you!
-            </p>
+            <h2 className="fz-50">I'd love to hear from you!</h2>
             <div className="phone fz-30 fw-600 mt-30 underline">
-              <a href="#0" className="main-color">
-                +1 840 841 25 69
+              <a className="main-color" href="tel:3167894090">
+                316-789-4090
+              </a>
+              <a className="main-color" href="mailto:talal.agha@me.com">
+                talal.agha@me.com
               </a>
             </div>
-            <ul className="rest social-text d-flex mt-60">
-              <li className="mr-30">
-                <a href="#0" className="hover-this">
-                  <span className="hover-anim">Facebook</span>
-                </a>
-              </li>
-              <li className="mr-30">
-                <a href="#0" className="hover-this">
-                  <span className="hover-anim">Twitter</span>
-                </a>
-              </li>
-              <li className="mr-30">
-                <a href="#0" className="hover-this">
-                  <span className="hover-anim">LinkedIn</span>
-                </a>
-              </li>
-              <li>
-                <a href="#0" className="hover-this">
-                  <span className="hover-anim">Instagram</span>
-                </a>
-              </li>
-            </ul>
           </div>
         </div>
         <div className="col-lg-7 valign">

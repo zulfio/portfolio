@@ -1,27 +1,50 @@
 [
   {
-    "photo": "/assets/imgs/resume/s1.png",
-    "title": "UI / UX Design",
-    "persent": "95%"
+    "photo": "/assets/imgs/resume/js.png",
+    "title": "JavaScript"
   },
   {
-    "photo": "/assets/imgs/resume/s2.png",
-    "title": "Development",
-    "persent": "90%"
+    "photo": "/assets/imgs/resume/reactjs.png",
+    "title": "ReactJS"
   },
   {
-    "photo": "/assets/imgs/resume/s3.png",
-    "title": "Graphic Design",
-    "persent": "85%"
+    "photo": "/assets/imgs/resume/nextjs.png",
+    "title": "NextJS"
   },
   {
-    "photo": "/assets/imgs/resume/s4.png",
-    "title": "WordPress",
-    "persent": "78%"
+    "photo": "/assets/imgs/resume/vuejs.png",
+    "title": "VueJS"
   },
   {
-    "photo": "/assets/imgs/resume/s5.png",
-    "title": "sketch",
-    "persent": "80%"
+    "photo": "/assets/imgs/resume/nuxtjs.png",
+    "title": "NuxtJS"
+  },
+  {
+    "photo": "/assets/imgs/resume/nodejs.png",
+    "title": "NodeJS"
+  },
+  {
+    "photo": "/assets/imgs/resume/php.png",
+    "title": "PHP"
+  },
+  {
+    "photo": "/assets/imgs/resume/laravel.png",
+    "title": "Laravel"
+  },
+  {
+    "photo": "/assets/imgs/resume/drupal.svg",
+    "title": "Drupal 9-11"
+  },
+  {
+    "photo": "/assets/imgs/resume/vscode.png",
+    "title": "VSCode"
+  },
+  {
+    "photo": "/assets/imgs/resume/github.png",
+    "title": "GitHub"
+  },
+  {
+    "photo": "/assets/imgs/resume/tailwindcss.png",
+    "title": "TailwindCSS"
   }
 ]

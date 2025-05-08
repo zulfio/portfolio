@@ -1,0 +1,161 @@
+[
+  {
+    "company": "Fahlgren Mortine",
+    "location": "Indiana, PA",
+    "position": "Senior Designer (Contract-Remote)",
+    "dates": "March 2023 - Current",
+    "responsibilities": [
+      "Architect and implement complex features for ecommerce platforms using Laravel and Drupal.",
+      "Scrapes and analyzes backlinks for websites. Checks for meta tags, headings, keyword density, and other SEO elements.",
+      "Build wide range of design, wireframing, and prototyping tools, including Photoshop, Fireworks, and Visio.",
+      "Utilized Vue JS framework to create dynamic and interactive web applications.",
+      "Created dynamic RESTful APIs in PHP, powering millions of transactions each month for clients.",
+      "Implemented responsive design techniques to adhere to current web standards.",
+      "implement desired functionality by either creating or tweaking custom WordPress themes and modules.",
+      "Analyzes content readability, keyword usage, and suggests improvements.",
+      "Developed and deployed scalable web applications using Heroku, Deployer and Docker.",
+      "Utilized AWS infrastructure setup (EC2, Lambda, S3, RDS, ELB, Cloud front) to improve website performance across all platforms and browsers.",
+      "Wrote Python scripts to load data into AWS cloud environments.",
+      "Identified and addressed common website security risks, which helped reduce vulnerability incidents.",
+      "Collaborated with cross-functional teams in a fast-paced environment to deliver high-quality code and meet project deadlines consistently."
+    ],
+    "environment": "WordPress, PHP, Python, Laravel 9, 10 and 11, Joomla, AEM, Angular, Drupal 9, 10-11, WCAG, Terraform, Jira, Vue, Nuxt, Strapi, AWS Cloud, TDD, FTP, Gen AI, Helm Charts, jHeroku, Query, Node js, NPM, React, git, Tailwind, SaaS, GraphQL, WP Engine."
+  },
+  {
+    "company": "JM Smucker",
+    "location": "IN",
+    "position": "Software Engineer (Contract-Remote)",
+    "dates": "Feb 2022 - Feb 2023",
+    "responsibilities": [
+      "Develop programming solutions on projects within brands to meet business requirements.",
+      "Develop and maintain both MySQL and mongo Databases.",
+      "Writing unit tests and API tests.",
+      "Responsible of Cloud migration of applications and CRM systems.",
+      "Design wireframes and develop WordPress themes and plugins. Also create website architecture.",
+      "Train business staff and developers on various Laravel and Vue based applications.",
+      "Manage data handling requests from Salesforce to other platforms.",
+      "Responsible of development and execution of technical solution testing, including unit, integration and performance tests."
+    ],
+    "environment": "WordPress, Angular, Laravel, React, WebGL, ARIA, Symphony, Node js, Vue 3, AWS Cloud, microservices, jQuery, React, AWS Lambda, NPM, Circle CI, bit bucket, git, Tailwind, SAAS, GraphQL."
+  },
+  {
+    "company": "Med Report Guard",
+    "location": "CA",
+    "position": "Senior Full Stack Developer (Contract-Remote)",
+    "dates": "Feb 2021 - Jan 2022",
+    "responsibilities": [
+      "Develop medical related applications using LAMP stack especially Laravel.",
+      "Developed index database architecture using SQL procedures.",
+      "Build dynamic web interfaces using Tailwind CSS, HTML and JS.",
+      "Writing unit tests and API tests.",
+      "Mentored junior developers on various JavaScript libraries exclusively Vue, web application development and OOP.",
+      "Setup EC2 instances and CI/CD pipelines on AWS platform.",
+      "Manage side effects, state changes, routing, and other related considerations in developing complex React-based applications",
+      "Manage, handling and distribution of all JIRA tasks among team members by their expertise level."
+    ],
+    "environment": "Laravel, Vue.js, inertia, Heroku, Jenkins, ARIA, CQRS, Symphony, jQuery, EMR, AWS Lambda, NPM, Node js, bit bucket, git, Tailwind, SAAS, GraphQL"
+  },
+  {
+    "company": "Medical Education Institute",
+    "location": "WI",
+    "position": "Sr. Web Consultant (Contract-Remote)",
+    "dates": "April 2020 - May 2021",
+    "responsibilities": [
+      "Build web interfaces with given UI/UX designs and style guidelines.",
+      "Designed and implemented database architecture for applications using various databases (MongoDB & MySQL).",
+      "Develop themes using foundation for new applications.",
+      "Work with Elm Architecture and functional data structures.",
+      "Design and develop AEM components, integrations and applications.",
+      "Use Photoshop to create UX and mockups for various microsites.",
+      "Create web applications using Ember.js and Bootstrap.",
+      "Convert ROR applications to Laravel PHP.",
+      "Manage and handle AWS cloud front, EC2 and RDS services.",
+      "Design dynamic content models, security models, workflows and AEM templates.",
+      "Wrote Python scripts which create SQL queries from the given data.",
+      "Rebuild and restructure websites using Jekyll, foundation and MySQL.",
+      "Maps client requirements to Drupal and will solve and provide structure behind technical applications.",
+      "Architect production web services with Ruby/Rails using MySQL, SQL Server, RDS",
+      "Enhance and maintain SEO & google analytics on all MEI websites.",
+      "Manage email lists and newsletters for worldwide authors."
+    ],
+    "environment": "ROR, jQuery, AWS, AEM, Ember, Elm, Gulp, Lambda, TDD, WCAG, AEM, Strapi, Node, Adobe Photoshop, React, GraphQL, Python, typescript, foundation, React, SaaS, Vue, MySQL, EC2, Cloud-front"
+  },
+  {
+    "company": "Casting Frontier",
+    "location": "Hollywood CA",
+    "position": "Sr. Front-End Engineer (Contract-Remote)",
+    "dates": "June 2019 - March 2020",
+    "responsibilities": [
+      "Developing user-facing applications using Ember and Vue.js.",
+      "Built modular and reusable components and libraries.",
+      "Optimizing application for performance & Implement automated testing integrated into development and maintain workflows.",
+      "Maintain the existing Liferay portal site for overseas users.",
+      "Provide support to old application was written in Elm and used Netlify functions to call the Air table.",
+      "Set up and maintained application authentication using Central Authentication Service",
+      "Manage and handle all upgrades and updates necessary for keeping up with app security and development best practices."
+    ],
+    "technologies": "Vue.js, ROR, jQuery, AWS, Ember.js, Liferay, Joomla, Elm, bit bucket, foundation, Angular, Terraform, Sass, React, GraphQL"
+  },
+  {
+    "company": "Oklahoma Tax Commission",
+    "location": "",
+    "position": "Software Engineer",
+    "dates": "Jan 2019 - June 2019",
+    "responsibilities": [
+      "Develop in-house web applications and data cubes using SSAS for data analysis.",
+      "Responsible of building custom based PHP application, that allow users to submit their Ad Valorem Taxes.",
+      "Works directly with business units/(SME) to translate user requirements into system specifications.",
+      "Integrate application UIs with server-side APIs."
+    ],
+    "technologies": "PHP, SQL, SSRS, DevOps, AWS, ROR, DevOps, GIT, JavaScript."
+  },
+  {
+    "company": "Jasco Electronics",
+    "location": "OK",
+    "position": "Web Manager",
+    "dates": "May 2017 - Jan 2019",
+    "responsibilities": [
+      "Responsible for the site UX and UI projects with frameworks using CSS, HTML5, PHP and JavaScript with cross-browser compatibility.",
+      "Built backend functionality, implemented development & continuous-integration workflows to review, test and deploy code into AWS.",
+      "Oversee the creation of design specifications and design standards in the form of storyboards, prototypes, wireframes, and workflows",
+      "Design and build the front-ends of multiple WordPress sites.",
+      "Designed multiple e-commerce web applications with robust checkout process.",
+      "Development of REST APIs in python and provide back-end capabilities to interface with OpenStack.",
+      "Build Micro services and application components using Spring boot",
+      "Converted web applications to PHP Frameworks with optimized speed and security.",
+      "Worked heavily on Drupal CMS development and developed various custom modules.",
+      "Offered consultation & solutions in mobile applications (Android & iOS) enterprise applications to ecommerce.",
+      "Implemented EDI system of systematic order transactions for Warehouse department."
+    ],
+    "technologies": "PHP, WordPress, Laravel, Spring boot, Liferay, AEM, React, Joomla, Angular5-6, HubSpot, DevOps, Magento, Visual Force, Stripe, Shopify, AWS, Drupal 8"
+  },
+  {
+    "company": "Oklahoma State University",
+    "location": "OK",
+    "position": "Web Developer (Drupal)",
+    "dates": "Nov 2014 - April 2017",
+    "responsibilities": [
+      "Responsible for architect, develop, and provided support of Enterprise Data.",
+      "Managed patch application on all database servers.",
+      "Design, document, implement, and monitor backup of critical database files, and other database protection.",
+      "Develop AEM components and templates leveraging current AEM software releases.",
+      "Design and develop workflows, forms & applications SharePoint portal using InfoPath & SharePoint designer.",
+      "Implemented complete analytics, AdWords and Search Engine Optimization (SEO) on various web sites to increase traffic.",
+      "Developed T-SQLs, stored procedures, performance tuning and building jobs using SSIS."
+    ],
+    "technologies": "PHP, JS, Redis, Microsoft SQL Server, Drupal, EDI, AEM, NoSQL, CSS3, HTML5, Camtasia, Share point 2013, LESS/SASS, Oracle DB, SQL-Server, UNIX, Windows Servers, Blackboard."
+  },
+  {
+    "company": "Wichita State University",
+    "location": "",
+    "position": "Business Analyst/DBA",
+    "dates": "Aug 2009 - Oct 2014",
+    "responsibilities": [
+      "Use HTML, CSS, jQuery, PHP, MySQL, XML, Git, Gulp, Grunt, and REST/SOAP APIs to develop complex responsive themes and plugins Development and administration of the various ColdFusion Applications to maintain a high degree of availability and uptime for critical reporting processes.",
+      "Design, develop, and maintain integration routines among PeopleSoft applications as well as between non-PeopleSoft applications using Integration Broker and messages.",
+      "Created custom modules on WordPress and jQuery user interface to display video clips of software effects.",
+      "Created web sites using PHP, Bootstrap CSS to show locator of sites and locations."
+    ],
+    "technologies": "Java, MVC, WebGL, PowerShell, PeopleSoft, SSL, Apache, Oracle ADF, HubSpot, ColdFusion."
+  }
+]
