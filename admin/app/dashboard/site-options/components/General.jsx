@@ -89,6 +89,65 @@ const General = ({ register, errors, control }) => {
                     placeholder="The best place to find and share original recipes."
                 />
             </div>
+
+            <div className="mb-5 max-w-sm">
+                <div className="mb-1">
+                    <span className="block text-base font-bold">Email</span>
+                </div>
+                <TextInput
+                    name="site_email"
+                    {...register("site_email")}
+                    maxLength="255"
+                    error={errors.site_email}
+                    errorMessage={errors.site_email?.message}
+                    placeholder="example@example.com"
+                />
+            </div>
+
+            <div className="mb-5 max-w-sm">
+                <div className="mb-1">
+                    <span className="block text-base font-bold">Years of Experience</span>
+                </div>
+                <TextInput
+                    name="years_of_experience"
+                    {...register("years_of_experience")}
+                    maxLength="255"
+                    error={errors.years_of_experience}
+                    errorMessage={errors.years_of_experience?.message}
+                    placeholder="10"
+                />
+            </div>
+
+            <div className="mb-5 max-w-sm">
+                <div className="mb-1">
+                    <span className="block text-base font-bold">Total Clients</span>
+                </div>
+                <TextInput
+                    name="total_clients"
+                    {...register("total_clients")}
+                    maxLength="255"
+                    error={errors.total_clients}
+                    errorMessage={errors.total_clients?.message}
+                    placeholder="100"
+                />
+            </div>
+
+            <div className="mb-5 max-w-sm">
+                <div className="mb-1">
+                    <span className="block text-base font-bold">CV Download URL</span>
+                    <span className="block text-sm">
+                        The URL of the CV file that will be downloaded when the user clicks the "Download CV" button.
+                    </span>
+                </div>
+                <TextInput
+                    name="cv_download_url"
+                    {...register("cv_download_url")}
+                    maxLength="255"
+                    error={errors.cv_download_url}
+                    errorMessage={errors.cv_download_url?.message}
+                    placeholder="https://example.com/cv.pdf"
+                />
+            </div>
         </div>
     );
 };

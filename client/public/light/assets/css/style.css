@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 /*-----------------------------------------------------------------------------------
 
     Theme Name: Gavi
@@ -124,7 +125,13 @@ body:before {
 }
 
 @media (min-width: 1400px) {
-  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
     max-width: 1280px;
   }
 }
@@ -134,7 +141,7 @@ body:before {
   margin-right: -5px;
 }
 
-.row.sm-marg > * {
+.row.sm-marg>* {
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -144,7 +151,7 @@ body:before {
   margin-right: -25px;
 }
 
-.row.md-marg > * {
+.row.md-marg>* {
   padding-left: 25px;
   padding-right: 25px;
 }
@@ -154,7 +161,7 @@ body:before {
   margin-right: -40px;
 }
 
-.row.lg-marg > * {
+.row.lg-marg>* {
   padding-left: 40px;
   padding-right: 40px;
 }
@@ -164,7 +171,7 @@ body:before {
   margin-right: -50px;
 }
 
-.row.xlg-marg > * {
+.row.xlg-marg>* {
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -175,7 +182,11 @@ body:before {
   clip-path: inset(-100vw -100vw -100vw 0);
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-weight: 500;
   line-height: 1.3;
   margin: 0;
@@ -216,7 +227,8 @@ p {
   margin: 0;
 }
 
-a, a:hover {
+a,
+a:hover {
   color: inherit;
 }
 
@@ -237,13 +249,15 @@ figure {
   margin: 0;
 }
 
-.row > * {
+.row>* {
   padding-left: 15px;
   padding-right: 15px;
   margin-top: 0;
 }
 
-.btn:hover, .btn:focus, .btn:active {
+.btn:hover,
+.btn:focus,
+.btn:active {
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -867,6 +881,7 @@ img {
     -webkit-transform: translateX(0%);
     transform: translateX(0%);
   }
+
   100% {
     -webkit-transform: translateX(-100%);
     transform: translateX(-100%);
@@ -878,6 +893,7 @@ img {
     -webkit-transform: translateX(0%);
     transform: translateX(0%);
   }
+
   100% {
     -webkit-transform: translateX(-100%);
     transform: translateX(-100%);
@@ -889,6 +905,7 @@ img {
     -webkit-transform: translateX(0%);
     transform: translateX(0%);
   }
+
   0% {
     -webkit-transform: translateX(-100%);
     transform: translateX(-100%);
@@ -900,6 +917,7 @@ img {
     -webkit-transform: translateX(0%);
     transform: translateX(0%);
   }
+
   0% {
     -webkit-transform: translateX(-100%);
     transform: translateX(-100%);
@@ -947,6 +965,7 @@ img {
     -webkit-transform: translateY(0%);
     transform: translateY(0%);
   }
+
   100% {
     -webkit-transform: translateY(-100%);
     transform: translateY(-100%);
@@ -958,6 +977,7 @@ img {
     -webkit-transform: translateY(0%);
     transform: translateY(0%);
   }
+
   100% {
     -webkit-transform: translateY(-100%);
     transform: translateY(-100%);
@@ -1052,6 +1072,7 @@ body.loaded {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -1061,6 +1082,7 @@ body.loaded {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -1342,7 +1364,8 @@ body.loaded {
   position: relative;
 }
 
-.about .cont h1 .bord:before, .about .cont h1 .bord:after {
+.about .cont h1 .bord:before,
+.about .cont h1 .bord:after {
   content: '';
   width: 6px;
   height: 6px;
@@ -1371,7 +1394,8 @@ body.loaded {
   pointer-events: none;
 }
 
-.about .cont h1 .bord i:before, .about .cont h1 .bord i:after {
+.about .cont h1 .bord i:before,
+.about .cont h1 .bord i:after {
   content: '';
   width: 6px;
   height: 6px;
@@ -2107,7 +2131,8 @@ body.loaded {
   position: relative;
 }
 
-.intro-profile .content h1 .bord:before, .intro-profile .content h1 .bord:after {
+.intro-profile .content h1 .bord:before,
+.intro-profile .content h1 .bord:after {
   content: '';
   width: 6px;
   height: 6px;
@@ -2136,7 +2161,8 @@ body.loaded {
   pointer-events: none;
 }
 
-.intro-profile .content h1 .bord i:before, .intro-profile .content h1 .bord i:after {
+.intro-profile .content h1 .bord i:before,
+.intro-profile .content h1 .bord i:after {
   content: '';
   width: 6px;
   height: 6px;
@@ -2193,7 +2219,7 @@ body.loaded {
   pointer-events: none;
 }
 
-.portfolio .item .img > a {
+.portfolio .item .img>a {
   height: 400px;
   width: 100%;
 }
@@ -4129,131 +4155,167 @@ img.left {
   .md-mb10 {
     margin-bottom: 10px;
   }
+
   .md-mb20 {
     margin-bottom: 20px;
   }
+
   .md-mb30 {
     margin-bottom: 30px;
   }
+
   .md-mb40 {
     margin-bottom: 40px;
   }
+
   .md-mb50 {
     margin-bottom: 50px !important;
   }
+
   .md-mb80 {
     margin-bottom: 80px;
   }
+
   .md-no-mrg {
     margin: 0 !important;
   }
+
   .md-pb10 {
     padding-bottom: 10px;
   }
+
   .md-pb20 {
     padding-bottom: 20px;
   }
+
   .md-pb30 {
     padding-bottom: 30px;
   }
+
   .md-pb40 {
     padding-bottom: 40px;
   }
+
   .md-pb50 {
     padding-bottom: 50px;
   }
+
   .md-pb60 {
     padding-bottom: 60px;
   }
+
   .md-pb70 {
     padding-bottom: 70px;
   }
+
   .md-pb80 {
     padding-bottom: 80px;
   }
+
   .md-pt80 {
     padding-top: 80px !important;
   }
+
   .md-no-pad {
     padding: 0 !important;
   }
+
   .md-center {
     text-align: center !important;
   }
+
   .order2 {
     -webkit-box-ordinal-group: 3 !important;
     -ms-flex-order: 2 !important;
     order: 2 !important;
   }
+
   .order1 {
     -webkit-box-ordinal-group: 2 !important;
     -ms-flex-order: 1 !important;
     order: 1 !important;
   }
+
   .justify-end {
     -webkit-box-pack: start !important;
     -ms-flex-pack: start !important;
     justify-content: flex-start !important;
   }
+
   .justify-end .vew-all {
     margin-left: 25px;
     margin-top: 25px;
   }
+
   .justify-end .swiper-controls {
     margin-top: 30px;
   }
+
   .justify-end .ml-auto {
     margin-left: 0;
     margin-top: 30px;
   }
+
   .md-hide {
     display: none;
   }
+
   .to-out .swiper-container {
     overflow: hidden;
     -webkit-clip-path: none;
     clip-path: none;
   }
+
   .row.md-marg {
     margin-left: -15px;
     margin-right: -15px;
   }
-  .row.md-marg > * {
+
+  .row.md-marg>* {
     padding-left: 15px;
     padding-right: 15px;
   }
+
   .loader-wrap svg {
     width: 200vw;
     left: -50vw;
   }
+
   body {
     padding: 0 20px;
   }
+
   main {
     padding: 0;
     max-width: 100%;
   }
+
   h1 {
     font-size: 40px;
   }
+
   .fz-55 {
     font-size: 35px !important;
   }
+
   .butn-presv .skew {
     -webkit-transform: none;
     -ms-transform: none;
     transform: none;
   }
+
   .go-more {
     -webkit-box-pack: start !important;
     -ms-flex-pack: start !important;
     justify-content: flex-start !important;
     margin-top: 30px;
   }
+
   .sec-box {
     padding-left: 40px !important;
     padding-right: 40px !important;
   }
+
   .navbar {
     position: absolute;
     right: 0;
@@ -4267,6 +4329,7 @@ img.left {
     display: none;
     z-index: 4;
   }
+
   .navbar .navbar-nav {
     display: block !important;
     width: 100%;
@@ -4275,63 +4338,80 @@ img.left {
     border-radius: 0;
     text-align: center;
   }
+
   .navbar .navbar-nav li {
     display: block;
     font-size: 18px !important;
   }
+
   .navbar .navbar-nav:after {
     display: none;
   }
+
   .nav-top .social,
   .nav-top .info {
     display: none;
   }
+
   .nav-top .navbar {
     padding: 40px 0;
     top: 40px;
   }
+
   .nav-top .nav-butn {
     display: block !important;
   }
+
   .contact-fixed-butn,
   .intro-profile .content:after {
     display: none;
   }
+
   .intro-profile .box-img {
     border-radius: 15px 15px 0 0;
     margin-bottom: 0;
     padding-bottom: 20px;
   }
+
   .intro-profile .content {
     border-radius: 0 0 15px 15px;
   }
+
   .intro-profile .content .stauts .mr-40 {
     margin-right: 20px !important;
   }
+
   .intro-profile .content .stauts h2 {
     font-size: 50px;
   }
+
   .awards .award-item {
     height: auto;
   }
+
   .testimonials:after {
     left: 40px;
   }
+
   .testimonials .pad-left {
     padding-left: 40px;
   }
+
   .testimonials .icon-qoute {
     font-size: 140px;
     top: -30px;
   }
+
   .testimonials .icon-img-60 {
     display: none;
   }
+
   .price .item .type {
     min-width: calc(100% - 240px);
     margin: auto;
     text-align: center;
   }
+
   .contact:after {
     background-size: cover;
   }
@@ -4341,203 +4421,265 @@ img.left {
   .sm-mb10 {
     margin-bottom: 10px;
   }
+
   .sm-mb20 {
     margin-bottom: 20px;
   }
+
   .sm-mb30 {
     margin-bottom: 30px;
   }
+
   .sm-mb40 {
     margin-bottom: 40px;
   }
+
   .sm-mb50 {
     margin-bottom: 50px;
   }
+
   .sm-mb80 {
     margin-bottom: 80px;
   }
+
   .sm-pb10 {
     padding-bottom: 10px;
   }
+
   .sm-pb20 {
     padding-bottom: 20px;
   }
+
   .sm-pb30 {
     padding-bottom: 30px;
   }
+
   .sm-pb40 {
     padding-bottom: 40px;
   }
+
   .sm-pb50 {
     padding-bottom: 50px;
   }
+
   .sm-pb60 {
     padding-bottom: 60px;
   }
+
   .sm-pb70 {
     padding-bottom: 70px;
   }
+
   .sm-pb80 {
     padding-bottom: 80px;
   }
+
   .sm-hide {
     display: none;
   }
+
   h1 {
     font-size: 30px;
   }
+
   h2 {
     font-size: 28px;
   }
+
   h3 {
     font-size: 24px;
   }
+
   h4 {
     font-size: 20px;
   }
+
   h5 {
     font-size: 18px;
   }
+
   .fz-18,
   h6 {
     font-size: 15px !important;
   }
+
   .fz-50 {
     font-size: 30px !important;
   }
+
   .fz-55 {
     font-size: 25px !important;
   }
+
   .justify-end-sm {
     -webkit-box-pack: start !important;
     -ms-flex-pack: start !important;
     justify-content: flex-start !important;
   }
+
   .justify-end-sm .vew-all {
     margin-left: 25px;
     margin-top: 25px;
   }
+
   .justify-end-sm .swiper-controls {
     margin-top: 30px;
   }
+
   .justify-end-sm .ml-auto {
     margin-left: 0;
     margin-top: 40px;
   }
+
   .md-padding {
     padding-left: 15px;
     padding-right: 15px;
   }
+
   .sub-title {
     letter-spacing: 1px;
   }
+
   .sub-title.fz-28 {
     font-size: 22px !important;
   }
+
   .loader-wrap .loader-wrap-heading .load-text {
     letter-spacing: 5px;
     font-size: 13px;
   }
+
   .progress-wrap {
     right: 10px;
     bottom: 20px;
   }
+
   body {
     padding: 0;
   }
+
   main {
     padding: 0;
   }
+
   .sec-box {
     padding-left: 15px !important;
     padding-right: 15px !important;
   }
+
   .intro-profile .content {
     padding: 80px 15px;
   }
+
   .intro-profile .box-img {
     padding-left: 15px;
     padding-right: 15px;
   }
+
   .intro-profile .content h1 .bord {
     padding: 0;
     position: static;
     border: 0;
   }
+
   .intro-profile .content h1 .bord i {
     display: none;
   }
-  .intro-profile .content h1 .bord:before, .intro-profile .content h1 .bord:after {
+
+  .intro-profile .content h1 .bord:before,
+  .intro-profile .content h1 .bord:after {
     display: none;
   }
-  .intro-profile .stauts > .d-flex {
+
+  .intro-profile .stauts>.d-flex {
     display: block !important;
   }
+
   .intro-profile .stauts .mr-40 {
     margin-right: 0 !important;
     margin-bottom: 30px !important;
   }
+
   .testimonials:after {
     left: 0px;
   }
+
   .testimonials .pad-left {
     padding-left: 0px;
   }
+
   .testimonials .icon-qoute {
     font-size: 100px;
     top: -20px;
   }
+
   .testimonials .testim-controls {
     margin-top: 30px;
   }
+
   .blog .item .cont {
     padding: 40px 20px;
   }
+
   .main-post .fz-60 {
     display: none;
   }
+
   .main-post .post-qoute {
     padding: 30px 15px;
   }
+
   .main-post .post-qoute h6:before {
     position: relative;
     left: 0;
   }
+
   .main-post .info-area {
     display: block;
   }
+
   .main-post .info-area .tags {
     margin-bottom: 30px;
   }
+
   .main-post .author-area .flex {
     display: block;
   }
+
   .main-post .author-area .author-img {
     margin: 0 0 30px 0;
   }
+
   .main-post .author-area .author-img .img {
     width: 80px;
     height: 80px;
   }
+
   .main-post .next-prv-post {
     display: block;
   }
+
   .main-post .next-prv-post .thumb-post {
     margin: 0 !important;
   }
+
   .main-post .next-prv-post .text-right {
     text-align: left;
     margin-top: 30px !important;
   }
+
   .comments-post .item-box .flex {
     display: block;
   }
+
   .comments-post .item-box .user-img {
     margin: 0 0 15px 0;
   }
+
   .comments-post .item-box .replay-post {
     margin: 15px 0 0 0;
   }
+
   .comments-post .item-box.replayed {
     margin-left: 0;
   }
