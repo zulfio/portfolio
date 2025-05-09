@@ -1,32 +1,46 @@
 [
   {
-    "photo": "/assets/imgs/works/1.jpg",
-    "title": "GeekFolio Portfolio",
-    "link": "/single-project"
+    "photo": "/assets/imgs/works/crowdfunding.png",
+    "title": "Crowdfunding App",
+    "link": "https://kitabisa.com/",
+    "stack": [
+      "Next.js",
+      "React.js",
+      "Mysql",
+      "Node.js"
+    ]
   },
   {
-    "photo": "/assets/imgs/works/2.jpg",
-    "title": "Luxury Modern Website",
-    "link": "/single-project"
+    "photo": "/assets/imgs/works/shields.png",
+    "title": "Shields Health Solutions",
+    "link": "https://shieldshealthsolutions.com/",
+    "stack": [
+      "PHP",
+      "Wordpress Core",
+      "Custom Theme",
+      "Custom Plugin"
+    ]
   },
   {
-    "photo": "/assets/imgs/works/3.jpg",
-    "title": "Partiner BPO",
-    "link": "/single-project"
+    "photo": "/assets/imgs/works/jobsohio.png",
+    "title": "JobsOhio",
+    "link": "https://www.jobsohio.com/",
+    "stack": [
+      "PHP",
+      "Wordpress Core",
+      "Custom Theme",
+      "Custom Plugin"
+    ]
   },
   {
-    "photo": "/assets/imgs/works/3.jpg",
-    "title": "Partiner BPO",
-    "link": "/single-project"
-  },
-  {
-    "photo": "/assets/imgs/works/3.jpg",
-    "title": "Partiner BPO",
-    "link": "/single-project"
-  },
-  {
-    "photo": "/assets/imgs/works/4.jpg",
-    "title": "From our gallery",
-    "link": "/single-project"
+    "photo": "/assets/imgs/works/jobsohio.png",
+    "title": "OSHN",
+    "link": "https://oshn.org/",
+    "stack": [
+      "PHP",
+      "Drupal Core",
+      "Custom Theme",
+      "Custom Module"
+    ]
   }
 ]

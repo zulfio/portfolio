@@ -10,7 +10,7 @@ function Portfolio() {
             <h6 className="sub-title opacity-7 mb-15">My Portfolio</h6>
             <h3>
               Look at my {' '}
-              <span className="main-color">Work</span>
+              <span className="main-color">Latest Work</span>
             </h3>
           </div>
         </div>
@@ -21,15 +21,23 @@ function Portfolio() {
             <div key={index} className="col-lg-6 items">
               <div className="item mt-50 wow fadeInUp" data-wow-delay=".2s">
                 <div className="img">
-                  <a href={item.link}>
+                  <a href={item.link} target="_blank" rel="noopener noreferrer">
                     <img src={item.photo} alt="" />
                   </a>
                 </div>
                 <div className="cont mt-30 d-flex align-items-center">
                   <div>
-                    <span className="tag">Branding</span>
-                    <h6 className="line-height-1">
-                      <a href="single-project">{item.title}</a>
+                    <div className='flex align-items-center gap-2 flex-wrap'>
+                      {item.stack.map((tag, index) => (
+                        <span key={index} className="tag">
+                          {tag}
+                        </span>
+                      ))}
+                    </div>
+                    <h6 className="line-height-1 mt-20">
+                      <a href={item.link} target="_blank" rel="noopener noreferrer">
+                        {item.title}
+                      </a>
                     </h6>
                   </div>
                   <div className="ml-auto">

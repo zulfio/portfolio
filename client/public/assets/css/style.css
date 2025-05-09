@@ -2269,7 +2269,6 @@ body.loaded {
   padding: 4px 15px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 30px;
-  margin-bottom: 15px;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;

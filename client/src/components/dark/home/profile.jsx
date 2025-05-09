@@ -17,7 +17,7 @@ function Profile() {
           <div className="stauts mt-80">
             <div className="d-flex align-items-center justify-content-center gap-4">
               <div className="butn-presv">
-                <Link to="contact" spy={true} smooth={false} className='full-width mb-3'>
+                <Link to="contact" spy={true} smooth={false} className='full-width mb-3 cursor-pointer'>
                   <div className="butn butn-md butn-bord radius-5 text-u bg-white text-dark">
                     <span>Contact Me</span>
                   </div>
