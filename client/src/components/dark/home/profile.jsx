@@ -24,7 +24,7 @@ function Profile() {
                 </Link>
               </div>
               <div className="butn-presv">
-                <a href="#0" className="butn butn-md butn-bord radius-5 text-u full-width mb-3">
+                <a href="/CV-Talal-Agha.pdf" className="butn butn-md butn-bord radius-5 text-u full-width mb-3" target='_blank'>
                   <span>Download C.V</span>
                 </a>
               </div>

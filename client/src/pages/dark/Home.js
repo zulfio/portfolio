@@ -26,7 +26,6 @@ function HomeDark() {
         <link rel="stylesheet" type="text/css" href="/assets/css/plugins.css" />
         <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
       </Helmet>
-      <Cursor />
       <ContactUs />
       <Lines />
       {/* <LoadingScreen /> */}
