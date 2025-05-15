@@ -1,16 +1,5 @@
 [
   {
-    "photo": "/assets/imgs/works/crowdfunding.png",
-    "title": "Crowdfunding App",
-    "link": "https://kitabisa.com/",
-    "stack": [
-      "Next.js",
-      "React.js",
-      "Mysql",
-      "Node.js"
-    ]
-  },
-  {
     "photo": "/assets/imgs/works/shields.png",
     "title": "Shields Health Solutions",
     "link": "https://shieldshealthsolutions.com/",
@@ -41,6 +30,17 @@
       "Drupal Core",
       "Custom Theme",
       "Custom Module"
+    ]
+  },
+  {
+    "photo": "/assets/imgs/works/crowdfunding.png",
+    "title": "Crowdfunding App",
+    "link": "https://kitabisa.com/",
+    "stack": [
+      "Next.js",
+      "React.js",
+      "Mysql",
+      "Node.js"
     ]
   }
 ]
