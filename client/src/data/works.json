@@ -1,5 +1,34 @@
 [
   {
+    "photo": "/assets/imgs/works/barr.png",
+    "title": "Barr Hub",
+    "link": "#0",
+    "stack": [
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
+    "photo": "/assets/imgs/works/soar.png",
+    "title": "SOAR Studies",
+    "link": "https://soarstudies.org/",
+    "stack": [
+      "PHP",
+      "Drupal Core",
+      "Custom Theme",
+      "Custom Module"
+    ]
+  },
+  {
+    "photo": "/assets/imgs/works/frysteel.png",
+    "title": "SFry Steel",
+    "link": "https://www.frysteel.com/",
+    "stack": [
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
     "photo": "/assets/imgs/works/shields.png",
     "title": "Shields Health Solutions",
     "link": "https://shieldshealthsolutions.com/",
